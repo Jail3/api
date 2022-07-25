@@ -2,9 +2,12 @@
   "title": "This is Title!",
   "message": "This is Message",
   "other": "Direct APK Download Link!!!",
-  "playstore": "",
-  "direct":"";
+  "playstore": "https://googleplaystore၀om",
+"direct":"https://mediafire😂com/",
+  "uninstall": false,
+  
+ 
   "versionName": "1.0",
   "versionCode": 8,
-
+  "force": true
 }
