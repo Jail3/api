@@ -1,13 +1,10 @@
 {
-  "title": "This is Title!",
-  "message": "This is Message",
-  "other": "Direct APK Download Link!!!",
-  "playstore": "https://googleplaystore၀om",
-"direct":"https://mediafire😂com/",
-  "uninstall": false,
-  
- 
-  "versionName": "1.0",
-  "versionCode": 8,
-  "force": true
+   "title": "This is Title!",
+   "message": "This is Message",
+   "other": "Direct APK Download Link!!!",
+   "playstore": "https://googleplaystore၀om",
+   "direct":"https://mediafire.com/",
+   "versionName": "1.0",
+   "versionCode": 8,
+   "marquee": "Mingalar Par",
 }
