@@ -1,5 +1,6 @@
 [
 
+
 {
            "league": "MAN U",
             "date": "TV Channel",
@@ -11,87 +12,380 @@
             "ateam" : "TV",
             "hotmat":"yes",
             "link":[
-                {
-                    "type": "MAN U TV",
+                
+{
+                    "type": "MUTV 360 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+         
+                },
+                
+{
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
                 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
                 }
                 
             ]
-         },
+},
 
-       
 {
-           "league": "Club Friendly",
-            "date": "July 31",
-            "time": "(9:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-            "teams" : "Man United Vs Rayo Vallecano",
-            "hteam" : "Man United",
-            "ateam" : "Rayo Vallecano",
-            "hotmat":"yes",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(1:00) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+            "teams" : "Frankfurt Vs Bayern",
+            "hteam" : "Frankfurt",
+            "ateam" : "Bayern",
+               "hotmat":"yes",
+"link":[
                 {
                     "type": "720 HD",
                 "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 31",
-            "time": "(10:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-            "teams" : "Marseille Vs AC Milan",
-            "hteam" : "Marseille",
-            "ateam" : "AC Milan",
-            "hotmat":"yes",
- "link":[
+                },
                 {
-                    "type": "480 SD",
+                    "type": "480HD",
                 "livelink":"0"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
+                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
          },
 
 {
-           "league": "UEFA Women Euro Final",
-            "date": "July 31",
-            "time": "(10:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
-            "teams" : "England (W) Vs Germany (W)",
-            "hteam" : "England (W)",
-            "ateam" : "Germany (W)",
-            "hotmat":"yes",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "teams" : "Crystal Palace Vs Arsenal",
+            "hteam" : "Crystal Palace",
+            "ateam" : "Arsenal",
+               "hotmat":"yes",
+"link":[
                 {
                     "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(6:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Fulham Vs Liverpool",
+            "hteam" : "Fulham",
+            "ateam" : "Liverpool",
+            "hotmat":"yes",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+            "teams" : "Bournemouth Vs Aston Villa",
+            "hteam" : "Bournemouth",
+            "ateam" : "Aston Villa",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+            "teams" : "Leeds Vs Wolves",
+            "hteam" : "Leeds",
+            "ateam" : "Wolves",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+            "teams" : "Newcastle Vs Nottingham",
+            "hteam" : "Newcastle",
+            "ateam" : "Nottingham",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+            "teams" : "Tottenham Vs Southampton",
+            "hteam" : "Tottenham",
+            "ateam" : "Southampton",
+            "hotmat":"yes",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(8:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
+            "teams" : "Augsburg Vs Freiburg",
+            "hteam" : "Augsburg",
+            "ateam" : "Freiburg",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(8:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
+            "teams" : "Bochum Vs Mainz",
+            "hteam" : "Bochum",
+            "ateam" : "Mainz",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(8:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
+            "teams" : "M'Gladbach Vs Hoffenheim",
+            "hteam" : "M'Gladbach",
+            "ateam" : "Hoffenheim",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(8:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
+            "teams" : "Union Berlin Vs Hertha BSC",
+            "hteam" : "Union Berlin",
+            "ateam" : "Hertha BSC",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(8:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
+            "teams" : "Wolfsburg Vs WerderBremen",
+            "hteam" : "Wolfsburg",
+            "ateam" : "WerderBremen",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+"league": "Premier League",
+            "date": "August 6",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+            "teams" : "Everton Vs Chelsea",
+            "hteam" : "Everton",
+            "ateam" : "Chelsea",
+            "hotmat":"yes",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+            "teams" : "Dortmund Vs Leverkusen",
+            "hteam" : "Dortmund",
+            "ateam" : "Leverkusen",
+            "hotmat":"yes",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
                 "livelink":"0"
                 }
             ]
