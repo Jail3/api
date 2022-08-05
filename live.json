@@ -2,7 +2,7 @@
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(1:00) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "teams" : "Frankfurt Vs Bayern",
@@ -12,7 +12,7 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"http://www.zegomovie.com/Videos/UpontheMagicRoads/index.m3u8"
                 },
                 {
                     "type": "480HD",
