@@ -16,7 +16,7 @@
                 },
                 {
                     "type": "480HD",
-                "livelink":"https://https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1659744379-0-0-dfa314fe5739d3be25357f3806eda297"
+                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1659744379-0-0-dfa314fe5739d3be25357f3806eda297"
 
 
 },
@@ -44,13 +44,18 @@
                     "type": "720 HD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
-                {
+    
+               {
+                    "type": "Full HD",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H616509.m3u8?txSecret=c344aa00b8ca61abcbd174d22f96120f&txTime=62EE9F0B&_s=stream"
+                },
+                    {
                     "type": "480 HD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62ed5a8c919bc6001c176b4b/62ed5a8c919bc6001c176b4b.m3u8"
+                "livelink":"https://pull.xingliju.com/leisu/1117712133393162.m3u8?auth_key=1659742365-0-0-f775062d65148955550a2f6ebfe989d0"
                 },
                 {
                     "type": "320SD",
-                "livelink":"http://d1zjrdezzwoal0.cloudfront.net/stream/NDY2MA==/1080p.m3u8"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd101358.m3u8"
             }
             ]
          },
