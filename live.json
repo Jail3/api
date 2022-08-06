@@ -3,7 +3,7 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "(6:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "teams" : "Fulham Vs Liverpool",
@@ -13,14 +13,14 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqcFw-DrRhFj_CUx3di2VzsN4tUKoYEmTCvja4cy56moVnSitOYTU-RGLc8sBbmlT0bLLeIFfc3pgjqeu9fcmneJcIvdekLtVwzQvuxytbm5zjdsJhpOkSFIo1Gec77NMYuoL2fAJMEJqL9Pa8KFB8yTG7hRqgKnBYFuzR9z4x8SbUe77dyxSOgI8bAQG4DYJvCYS1__hqmKhymdxMQGDFx02lshYz3W16yMyyZR090t696STGh_khoMg93gZZb0lbv8Fm5kV5zglxdLu0x02SfzUui-E9KpWzPem0Y32ZRNErOzJGT6YhrmHvhie91RzTWLTBgaw283qj6CnXnxMOa1w143ROoAoBTpmFDNwcfdvMAimwd3jqIsi9ERFMUTZ1ZkrALku3f14DQSQvdOwgWEPiHRLa1-Vn79YqifegmXiYsS0Vcv8gzTnNtUGMSm5y9BAunevFzbaNNttaXMCzZB899toifotHIqKjyT62zkjsf59DuWlN1FT2nTfcXLpRG-7Ab9FT6vOZHfbY17RJlJ2gF4x9Mcuc0ZD72JmCqKCuMJOLCWOZzkd4ow1Ng8of83XsmRXbTVm9CXMGCei4-TrE32LfUYR1FJuTLncY9PMi8s7UcRx6jS4cVKM552vTu73hUamdcCZIAYKLZeIkpwjBzbISBsh3QoY4NgmpSvuebVgRca7KgQqHJS4SVV-3Q7oeRoVC6QkZnicT1s_A6vkfvK63RY_78YPdSuWdfyik2eXKo_iG-MxtSgFxZtxM0z-FQUcYn9vaiaOYj2evsQ81VLv4mWOKvu9WKO4iu2Xkb2ZuGF3MUMnTkzPNOp6FWkbGF987DCinFlXuIJRBKxUYQs2RNxmrf5i82Vzwmhi_nDTms1dTbiY76bTg08tywaR4s9oxiBQhoMgqcxAwyY1hg-_dlyIAEqCXVzLWVhc3QtMjCtBA.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqcFw-DrRhFj_CUx3di2VzsN4tUKoYEmTCvja4cy56moVnSitOYTU-RGLc8sBbmlT0bLLeIFfc3pgjqeu9fcmneJcIvdekLtVwzQvuxytbm5zjdsJhpOkSFIo1Gec77NMYuoL2fAJMEJqL9Pa8KFB8yTG7hRqgKnBYFuzR9z4x8SbUe77dyxSOgI8bAQG4DYJvCYS1__hqmKhymdxMQGDFx02lshYz3W16yMyyZR090t696STGh_khoMg93gZZb0lbv8Fm5kV5zglxdLu0x02SfzUui-E9KpWzPem0Y32ZRNErOzJGT6YhrmHvhie91RzTWLTBgaw283qj6CnXnxMOa1w143ROoAoBTpmFDNwcfdvMAimwd3jqIsi9ERFMUTZ1ZkrALku3f14DQSQvdOwgWEPiHRLa1-Vn79YqifegmXiYsS0Vcv8gzTnNtUGMSm5y9BAunevFzbaNNttaXMCzZB899toifotHIqKjyT62zkjsf59DuWlN1FT2nTfcXLpRG-7Ab9FT6vOZHfbY17RJlJ2gF4x9Mcuc0ZD72JmCqKCuMJOLCWOZzkd4ow1Ng8of83XsmRXbTVm9CXMGCei4-TrE32LfUYR1FJuTLncY9PMi8s7UcRx6jS4cVKM552vTu73hUamdcCZIAYKLZeIkpwjBzbISBsh3QoY4NgmpSvuebVgRca7KgQqHJS4SVV-3Q7oeRoVC6QkZnicT1s_A6vkfvK63RY_78YPdSuWdfyik2eXKo_iG-MxtSgFxZtxM0z-FQUcYn9vaiaOYj2evsQ81VLv4mWOKvu9WKO4iu2Xkb2ZuGF3MUMnTkzPNOp6FWkbGF987DCinFlXuIJRBKxUYQs2RNxmrf5i82Vzwmhi_nDTms1dTbiY76bTg08tywaR4s9oxiBQhoMgqcxAwyY1hg-_dlyIAEqCXVzLWVhc3QtMjCtBA.m3u8"
                 },
                 {
-                    "type": "320SD",
+                    "type": "No Link",
                 "livelink":"0"
                 }
             ]
