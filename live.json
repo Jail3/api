@@ -3,46 +3,6 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Fulham Vs Liverpool",
-            "hteam" : "Fulham",
-            "ateam" : "Liverpool",
-            "hotmat":"yes",
-"link":[
-                {
-                    "type": "720 HD",
-                "livelink":"http://154.26.131.153:8000/play/id83c9585/62ee523d244b337d30af218e.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.rngeoR6QFwsWQ48cNn0Z94xTi9fssx53fhcz8x9q554Uk2lCIeux5JgaiRm4wmQgU5UYkdaVK-olLjOGeoNUhg"
-                },
-           {"type":"Hd",
-            "livelink":"http://154.26.131.153:8000/channel/n4d0b64e1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.rngeoR6QFwsWQ48cNn0Z94xTi9fssx53fhcz8x9q554Uk2lCIeux5JgaiRm4wmQgU5UYkdaVK-olLjOGeoNUhg"
-           },
-           {"type":"HD Match",
-            "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3980.m3u8"},
-           {"type":"420P",
-            "livelink":"https://pull.xingliju.com/armenia/220511592.m3u8?auth_key=1659802020-0-0-9d08a2c2c6c085545cad5b390576e548"},
-           {
-                    "type": "1080 HD",
-                "livelink":"https://hls1.yuanzhi.org.cn/live/H616510.m3u8?txSecret=9e8881c947dce2fca6aac216e5c6ddc8&txTime=62EF959C&_s=stream"
-   },
-{
-                    "type": "SD",
-                "livelink":"https://cdn1-sports.gxpeihuchuang.com/live/GvvRd9kM03.flv"
-         
-                },
-{
-                    "type": "Match HD",
-                "livelink":"https://29a808a6f797.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.100601066068.channel.3El72A87Csjt.m3u8"
-         
-                },
-           {"type":"Match",
-            "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659805580-0-0-3a0055b957039a90e8745dba101c339c"}
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "August 6",
             "time": "(8:30) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
