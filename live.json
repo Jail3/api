@@ -13,7 +13,7 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5796.m3u8"
+                "livelink":"https://pull.xingliju.com/leisu/1117766765683259.m3u8?auth_key=1659809130-0-0-0a083df23aea8b443a45ecdad54df75b"
                 },
                 {
                     "type": "480HD",
@@ -130,7 +130,7 @@
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(8:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
             "teams" : "Augsburg Vs Freiburg",
@@ -140,22 +140,22 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd37214.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd37214.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd37214.m3u8"
                 }
             ]
          },
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(8:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
             "teams" : "Bochum Vs Mainz",
@@ -165,22 +165,22 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5820.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://pull.xingliju.com/leisu/1117767048426566.m3u8?auth_key=1659809130-0-0-03b0fef07d87a86e4812aff4200c8f59"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://pull.xingliju.com/leisu/1117767048426566.m3u8?auth_key=1659809130-0-0-03b0fef07d87a86e4812aff4200c8f59"
                 }
             ]
          },
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(8:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
             "teams" : "M'Gladbach Vs Hoffenheim",
@@ -190,15 +190,15 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5764.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5764.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5764.m3u8"
                 }
             ]
          },
@@ -206,7 +206,7 @@
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(8:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
             "teams" : "Wolfsburg Vs WerderBremen",
@@ -216,15 +216,15 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5728.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5728.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5728.m3u8"
                 }
             ]
          },
