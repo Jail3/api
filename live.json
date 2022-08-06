@@ -14,7 +14,14 @@
                 {
                     "type": "720 HD",
                 "livelink":"http://154.26.131.153:8000/play/id83c9585/62ee523d244b337d30af218e.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.rngeoR6QFwsWQ48cNn0Z94xTi9fssx53fhcz8x9q554Uk2lCIeux5JgaiRm4wmQgU5UYkdaVK-olLjOGeoNUhg"
-                }
+                },
+           {"type":"Hd",
+            "livelink":"http://154.26.131.153:8000/channel/n4d0b64e1/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.rngeoR6QFwsWQ48cNn0Z94xTi9fssx53fhcz8x9q554Uk2lCIeux5JgaiRm4wmQgU5UYkdaVK-olLjOGeoNUhg"
+           },
+           {"type":"HD Match",
+            "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3980.m3u8"},
+           {"type":"420P",
+            "livelink":"https://pull.xingliju.com/armenia/220511592.m3u8?auth_key=1659802020-0-0-9d08a2c2c6c085545cad5b390576e548"}
             ]
          },
 {
