@@ -22,8 +22,8 @@
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "no link",
-                "livelink":"0"
+                    "type": "Full HD",
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3984.m3u8"
                 }
             ]
          },
@@ -46,9 +46,17 @@
                     "type": "480p",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62ee90b9bf3044001cf3ddb2/62ee90b9bf3044001cf3ddb2.m3u8"
                 },
+
+{
+                    "type": "FHD",
+                "livelink":"https://pull.xingliju.com/armenia/602348298.m3u8?auth_key=1659814965-0-0-e95bab87a62fb4cae287fc485be4953b"
+                },
+
+
+
                 {
-                    "type": "no link",
-                "livelink":"0"
+                    "type": "Full Hd",
+                "livelink":"https://craff23.s.llnwi.net/live/streamhd54902.m3u8"
                 }
             ]
          }
