@@ -13,11 +13,11 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"http://asdsadasdasd.azureedge.net/stream/NDY0Mw==/1080p.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0Mw==/1080p.m3u8"
                 },
                 {
                     "type": "320SD",
