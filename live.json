@@ -244,7 +244,7 @@
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "(11:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
             "teams" : "Dortmund Vs Leverkusen",
@@ -253,15 +253,15 @@
             "hotmat":"yes",
 "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "720p",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "480p",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ee90b9bf3044001cf3ddb2/62ee90b9bf3044001cf3ddb2.m3u8"
                 },
                 {
-                    "type": "320SD",
+                    "type": "no link",
                 "livelink":"0"
                 }
             ]
