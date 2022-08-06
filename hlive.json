@@ -1,6 +1,50 @@
 [
 
 
+
+                 "league": "Premier League",
+                 "date": "August 6",
+                 "time": "0 - 2",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+                 "teams" : "Crystal Palace 0-2 Arsenal",
+                  "hteam" : "Crystal Palace",
+                 "ateam" : "Arsenal",
+                 "hllink": [
+          {
+                "quality":"720p",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230425/720p.m3u8"
+          },
+         {
+ 
+              "quality":"480p",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230425/360p.m3u8"
+          }
+]
+     },
+{
+                 "league": "Bundesliga",
+                 "date": "April 6",
+                 "time": "1 - 6",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+                 "teams" : "Frankfurt 1-6 Bayern",
+                  "hteam" : "Frankfurt",
+                 "ateam" : "Bayern",
+                 "hllink": [
+          {
+                "quality":"1080p",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230418/720p.m3u8"
+          },
+         {
+ 
+              "quality":"720p",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/5/42/230418/360p.m3u8"
+          }
+]
+     },
+
+
 {
             "league": "Club Friendly",
             "date": "July 31",
