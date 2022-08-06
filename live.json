@@ -1,32 +1,113 @@
 [
 
 {
-           "league": "Bundesliga",
+                    "type": "MUTV 240 SD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MUTV 540 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
+{
+                    "type": "MAN U TV 1080HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+                }
+                
+            ]
+},
+
+
+{
+       "league": "Premier League",
             "date": "August 6",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
-            "teams" : "Union Berlin Vs Hertha BSC",
-            "hteam" : "Union Berlin",
-            "ateam" : "Hertha BSC",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+            "teams" : "Newcastle Vs Nottingham",
+            "hteam" : "Newcastle",
+            "ateam" : "Nottingham",
+            "hotmat":"no",
+"link":[
+          
+                {
+                    "type": "480HD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ee68b1919bc6001c176b95/62ee68b1919bc6001c176b95.m3u8"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+            "teams" : "Tottenham Vs Southampton",
+            "hteam" : "Tottenham",
+            "ateam" : "Southampton",
+            "hotmat":"yes",
+"link":[
+                {
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ee6c45919bc6001c176b99/62ee6c45919bc6001c176b99.m3u8"
+                }
+                
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+            "teams" : "Bournemouth Vs Aston Villa",
+            "hteam" : "Bournemouth",
+            "ateam" : "Aston Villa",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "480 HD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
+                },
+                {
+                    "type": "FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62ee6625bb9edd001da64950/62ee6625bb9edd001da64950.m3u8"
+                }
+                
+                
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+            "teams" : "Leeds Vs Wolves",
+            "hteam" : "Leeds",
+            "ateam" : "Wolves",
             "hotmat":"no",
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://pull.xingliju.com/leisu/1117766765683259.m3u8?auth_key=1659809130-0-0-0a083df23aea8b443a45ecdad54df75b"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5796.m3u8"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5796.m3u8"
+                    "type": "FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62ee63f4bb9edd001da6494e/62ee63f4bb9edd001da6494e.m3u8"
                 }
+                
             ]
          },
-
-
 
 {
            "league": "Bundesliga",
@@ -41,15 +122,15 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd37214.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may121/chunklist.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd37214.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may121/chunklist.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd37214.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may121/chunklist.m3u8"
                 }
             ]
          },
@@ -66,15 +147,15 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5820.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"https://pull.xingliju.com/leisu/1117767048426566.m3u8?auth_key=1659809130-0-0-03b0fef07d87a86e4812aff4200c8f59"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"https://pull.xingliju.com/leisu/1117767048426566.m3u8?auth_key=1659809130-0-0-03b0fef07d87a86e4812aff4200c8f59"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 }
             ]
          },
@@ -91,19 +172,43 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5764.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5764.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5764.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may101/chunklist.m3u8"
                 }
             ]
          },
-
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
+            "teams" : "Union Berlin Vs Hertha BSC",
+            "hteam" : "Union Berlin",
+            "ateam" : "Hertha BSC",
+            "hotmat":"no",
+"link":[
+                {
+                    "type": "720 HD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may81/chunklist.m3u8"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may81/chunklist.m3u8"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may81/chunklist.m3u8"
+                }
+            ]
+         },
 {
            "league": "Bundesliga",
             "date": "August 6",
@@ -117,116 +222,15 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5728.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may8/chunklist.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5728.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may8/chunklist.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd5728.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "August 6",
-            "time": "(8:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-            "teams" : "Leeds Vs Wolves",
-            "hteam" : "Leeds",
-            "ateam" : "Wolves",
-            "hotmat":"no",
-"link":[
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
-                }
-            ]
-         },
-         {
-           "league": "Premier League",
-            "date": "August 6",
-            "time": "(8:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-            "teams" : "Tottenham Vs Southampton",
-            "hteam" : "Tottenham",
-            "ateam" : "Southampton",
-            "hotmat":"yes",
-"link":[
-                {
-                    "type": "720 HD",
-                "livelink":"http://asdsadasdasd.azureedge.net/stream/NDY0Mw==/1080p.m3u8"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0Mw==/1080p.m3u8"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/PKP-yyOqVQjEDMQppaQa4Wml-DU-JDmJYNq0WCEjTj-Y7i0sGt6zET5F6c-QwCLvNLNPgnizXCH4"
-                }
-            ]
-         },
-{
-           "league": "Premier League",
-            "date": "August 6",
-            "time": "(8:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-            "teams" : "Bournemouth Vs Aston Villa",
-            "hteam" : "Bournemouth",
-            "ateam" : "Aston Villa",
-            "hotmat":"no",
-"link":[
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
-                }
-            ]
-         },
-
-         {
-       "league": "Premier League",
-            "date": "August 6",
-            "time": "(8:30) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-            "teams" : "Newcastle Vs Nottingham",
-            "hteam" : "Newcastle",
-            "ateam" : "Nottingham",
-            "hotmat":"no",
-"link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/PKP-yyOqVQjEDMQppaQa4Wml-DU-JDmJYNq0WCEjTj-Y7i0sGt6zET5F6c-QwCLvNLNPgnizXCH4"
-                },
-                {
-                    "type": "480HD",
-                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0Mw==/1080p.m3u8"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"http://asdsadasdasd.azureedge.net/stream/NDY0Mw==/1080p.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may8/chunklist.m3u8"
                 }
             ]
          },
