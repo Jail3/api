@@ -4,7 +4,7 @@
 {
            "league": "Premier League",
             "date": "August7",
-            "time": "live",
+            "time": "End",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "teams" : "Man U Vs Brighton",
@@ -44,7 +44,7 @@
 {
            "league": "PremierLeague",
             "date": "August 7",
-            "time": "live",
+            "time": "End",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
             "teams" : "Leicester Vs Brentford",
