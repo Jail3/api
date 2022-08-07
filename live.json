@@ -4,7 +4,7 @@
 {
            "league": "Premier League",
             "date": "August7",
-            "time": "7:30PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "teams" : "Man U Vs Brighton",
@@ -14,22 +14,22 @@
 "link":[
                 {
                     "type": "1080p",
-                "livelink":"0"
+                "livelink":"http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/chunklist_w911274896.m3u8"
                 },
                 {
                     "type": "720p",
-                "livelink":"0"
+                "livelink":"http://networkcd.azureedge.net/stream/NDY3OA==/1080p.m3u8"
                 },
                 {
                     "type": "480p",
-                "livelink":"0"
+                "livelink":"http://sxdwsds.azureedge.net/hls/astro/chunks.m3u8"
                 }
             ]
          },
 {
            "league": "PremierLeague",
             "date": "August 7",
-            "time": "7:30PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
             "teams" : "Leicester Vs Brentford",
@@ -39,15 +39,15 @@
 "link":[
                 {
                     "type": "1080p",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 },
                 {
                     "type": "720p",
-                "livelink":"0"
+                "livelink":"https://livestream.socialstreaming.tv/live/62efab852bb9ba001c727d9b/62efab852bb9ba001c727d9b.m3u8"
                 },
                 {
                     "type": "480p",
-                "livelink":"0"
+                "livelink":"https://livestream.socialstreaming.tv/live/62efab852bb9ba001c727d9b/62efab852bb9ba001c727d9b.m3u8"
                 }
             ]
          },
