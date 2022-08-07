@@ -23,7 +23,22 @@
                 {
                     "type": "480p",
                 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1659899733~acl=/may1SD*~hmac=52f3190546205552015b43f1ae3d56d059f4d9c4e6021320f9"
+                },
+
+
+                {
+                    "type": "FHD1",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1659879703~acl=%2F8586aee8-96f0-4508-8683-7f6ef4ded5d1%2F%2A~hmac=98768afe6845aa7a2c87ec4a17b9e4a647fd0782fbfa6770c4a856eb323222cd/8586aee8-96f0-4508-8683-7f6ef4ded5d1/hls.m3u8"
+                },
+                {
+                    "type": "FHD2",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1659879703~acl=%2F8586aee8-96f0-4508-8683-7f6ef4ded5d1%2F%2A~hmac=98768afe6845aa7a2c87ec4a17b9e4a647fd0782fbfa6770c4a856eb323222cd/8586aee8-96f0-4508-8683-7f6ef4ded5d1/chunklist_b3256000.m3u8"
+                },
+                {
+                    "type": "FHD3",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1659879703~acl=%2F8586aee8-96f0-4508-8683-7f6ef4ded5d1%2F%2A~hmac=98768afe6845aa7a2c87ec4a17b9e4a647fd0782fbfa6770c4a856eb323222cd/8586aee8-96f0-4508-8683-7f6ef4ded5d1/chunklist_b728000.m3u8320f9"
                 }
+
             ]
          },
 {
