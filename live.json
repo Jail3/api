@@ -1,62 +1,102 @@
 [
 
 
-
 {
            "league": "Premier League",
-            "date": "August 6",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-            "teams" : "Everton Vs Chelsea",
-            "hteam" : "Everton",
-            "ateam" : "Chelsea",
-            "hotmat":"yes",
+            "date": "August7",
+            "time": "7:30PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "teams" : "Man U Vs Brighton",
+            "hteam" : "Man U",
+            "ateam" : "Brighton",
+             
 "link":[
                 {
-                    "type": "1080P HD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                    "type": "1080p",
+                "livelink":"0"
                 },
                 {
-                    "type": "720P",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+                    "type": "720p",
+                "livelink":"0"
                 },
                 {
-                    "type": "Full HD",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3984.m3u8"
+                    "type": "480p",
+                "livelink":"0"
                 }
             ]
          },
 {
-           "league": "Bundesliga",
-            "date": "August 6",
-            "time": "Ended",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
-            "teams" : "Dortmund Vs Leverkusen",
-            "hteam" : "Dortmund",
-            "ateam" : "Leverkusen",
-            "hotmat":"yes",
+           "league": "PremierLeague",
+            "date": "August 7",
+            "time": "7:30PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "teams" : "Leicester Vs Brentford",
+            "hteam" : "Leicester",
+            "ateam" : "Brentford",
+           
 "link":[
                 {
+                    "type": "1080p",
+                "livelink":"0"
+                },
+                {
                     "type": "720p",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "480p",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62ee90b9bf3044001cf3ddb2/62ee90b9bf3044001cf3ddb2.m3u8"
-                },
+                "livelink":"0"
+                }
+            ]
+         },
 
 {
-                    "type": "FHD",
-                "livelink":"https://pull.xingliju.com/armenia/602348298.m3u8?auth_key=1659814965-0-0-e95bab87a62fb4cae287fc485be4953b"
-                },
-
-
-
+           "league": "Bundesliga",
+            "date": "August7",
+            "time": "8:00PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+            "teams" : "VfBStuttgart Vs RB Leipzig",
+            "hteam" : "VfB Stuttgart",
+            "ateam" : "RB Leipzig",
+             
+"link":[
                 {
-                    "type": "Full Hd",
-                "livelink":"https://craff23.s.llnwi.net/live/streamhd54902.m3u8"
+                    "type": "1080p",
+                "livelink":"0"
+                },
+                {
+                    "type": "720p",
+                "livelink":"0"
+                }
+                
+                    
+            ]
+         },
+{
+           "league": "Premierleague",
+            "date": "August7",
+            "time": "10:00PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "teams" : "WestHam Vs Man City",
+            "hteam" : "WestHam",
+            "ateam" : "ManCity",
+             
+"link":[
+                {
+                    "type": "1080p",
+                "livelink":"0"
+                },
+                {
+                    "type": "720p",
+                "livelink":"0"
+                },
+                {
+                    "type": "480p",
+                "livelink":"0"
                 }
             ]
          }
