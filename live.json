@@ -93,7 +93,7 @@
 {
            "league": "Premierleague",
             "date": "August7",
-            "time": "10:00PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "teams" : "WestHam Vs Man City",
@@ -103,15 +103,15 @@
 "link":[
                 {
                     "type": "1080p",
-                "livelink":"0"
+                "livelink":"http://makeitway.azureedge.net/hls/skysports/chunks.m3u8"
                 },
                 {
                     "type": "720p",
-                "livelink":"0"
+                "livelink":"https://livestream.socialstreaming.tv/live/62efd3780bdcd8001ccf1020/62efd3780bdcd8001ccf1020.m3u8"
                 },
                 {
                     "type": "480p",
-                "livelink":"0"
+                "livelink":"http://jasidhjasdgas.azureedge.net/stream/NDY3OQ==/1080p.m3u8"
                 }
             ]
          }
