@@ -112,7 +112,25 @@
                 {
                     "type": "480p",
                 "livelink":"http://jasidhjasdgas.azureedge.net/stream/NDY3OQ==/1080p.m3u8"
+                },
+
+                {
+                    "type": "FHD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1659906500-0-0-e791b29fd25accc9617db0f0c4678f73"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://179910612.global.cdnfastest.com/live/183116676476b44487da6090d3613448beb/chunklist.m3u8"
+                },
+                {
+                    "type": "SD",
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/123SD/123SD@456.m3u8"
+                },
+{
+                    "type": "HD2",
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3988.m3u8"
                 }
+
             ]
          }
 ]
