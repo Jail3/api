@@ -5,7 +5,7 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "live",
+            "time": "Ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
             "teams" : "Everton Vs Chelsea",
@@ -30,7 +30,7 @@
 {
            "league": "Bundesliga",
             "date": "August 6",
-            "time": "live",
+            "time": "Ended",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
             "teams" : "Dortmund Vs Leverkusen",
