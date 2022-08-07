@@ -42,27 +42,27 @@
             ]
          },
 {
-           "league": "PremierLeague",
-            "date": "August 7",
-            "time": "End",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-            "teams" : "Leicester Vs Brentford",
-            "hteam" : "Leicester",
-            "ateam" : "Brentford",
+           "league": "Club Friendly",
+            "date": "August 8",
+            "time": "live",
+            "himg": "https://www.sofascore.com/team/football/roma/2702",
+            "aimg": "https://www.sofascore.com/team/football/shakhtar-donetsk/3313",
+            "teams" : "Roma Vs Shakhtar Donetsk",
+            "hteam" : "Roma",
+            "ateam" : "Shaktar Donetsk",
            
 "link":[
                 {
                     "type": "1080p",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
+                "livelink":"https://svs.itworkscdn.net:443/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
                 },
                 {
                     "type": "720p",
-                "livelink":"https://livestream.socialstreaming.tv/live/62efab852bb9ba001c727d9b/62efab852bb9ba001c727d9b.m3u8"
+                "livelink":"https://179235864.global.cdnfastest.com/live/1835978343a56044e44ac7f11057e93569a/chunklist.m3u8"
                 },
                 {
                     "type": "480p",
-                "livelink":"https://livestream.socialstreaming.tv/live/62efab852bb9ba001c727d9b/62efab852bb9ba001c727d9b.m3u8"
+                "livelink":"https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/chunklist.m3u8"
                 }
             ]
          },
@@ -70,7 +70,7 @@
 {
            "league": "Bundesliga",
             "date": "August7",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
             "teams" : "VfBStuttgart Vs RB Leipzig",
@@ -93,7 +93,7 @@
 {
            "league": "Premierleague",
             "date": "August7",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "teams" : "WestHam Vs Man City",
