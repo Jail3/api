@@ -70,7 +70,7 @@
 {
            "league": "Bundesliga",
             "date": "August7",
-            "time": "8:00PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
             "teams" : "VfBStuttgart Vs RB Leipzig",
@@ -80,11 +80,11 @@
 "link":[
                 {
                     "type": "1080p",
-                "livelink":"0"
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd23842.m3u8"
                 },
                 {
                     "type": "720p",
-                "livelink":"0"
+                "livelink":"https://pull.xingliju.com/leisu/1117767142674335.m3u8?auth_key=1659895350-0-0-8652abddf3021aad6f6f205982fcf24d"
                 }
                 
                     
