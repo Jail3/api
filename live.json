@@ -1,32 +1,12 @@
 [
 
-{
-            "league": "Club Friendly",
-            "date": "August 7",
-            "time": "5 - 0",
-            "himg": "https://images.footyroom.com/badges/73",
-            "aimg": "https://images.footyroom.com/badges/419",
-            "teams" : "Roma vs Shaktar",
-             "hteam" : "Roma",
-            "ateam" : "Shakhtar Donetsk",
-            "hllink": [
-{
-           "quality":"720p",
-           "link":"https://bto2cdn16611.90minkora.com/UpFiles/2022/8/7/42/230706/720p.m3u8"
-},
-{
- 
-       "quality":"360p",
-         "link":"https://bto2cdn16611.90minkora.com/UpFiles/2022/8/7/42/230706/360p.m3u8"
-}
-]
-},
+
 
 
 {
            "league": "Club Friendly",
             "date": "August 8",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1946_small.png",
             "teams" : "Barcelona Vs Universidad",
@@ -66,7 +46,7 @@
 {
            "league": "Club Friendly",
             "date": "August 8",
-            "time": "live",
+            "time": "end",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
             "teams" : "Roma Vs Shakhtar Donetsk",
