@@ -1,6 +1,49 @@
 [
 
 
+{
+            "league": "ClubFriendly",
+            "date": "August 7",
+            "time": "6 - 0",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1946_small.png",
+            "teams" : "Barcelona 6 - 0 Pumas",
+             "hteam" : "Barcelona",
+            "ateam" : "Pumas",
+            "hllink": [
+{
+           "quality":"720",
+           "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230695/720p.m3u8"
+},
+{
+ 
+       "quality":"360",
+         "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230695/360p.m3u8"
+}
+]
+},
+{
+                 "league": "PremierLeague",
+                 "date": "August 7",
+                 "time": "0 - 2",
+                 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+                 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+                 "teams" : "West Ham vs Man City",
+                  "hteam" : "West Ham",
+                 "ateam" : "Man City",
+                 "hllink": [
+          {
+                "quality":"720",
+                "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230649/720p.m3u8"
+          },
+         {
+ 
+              "quality":"360",
+              "link":"https://cdn004440444.koralast.com/UpFiles/2022/8/7/42/230649/360p.m3u8"
+          }
+]
+     },
+
 
 {
                  "league": "PremierLeague",
@@ -47,7 +90,7 @@
 ]
      },
 {
-                 "league": "premier league",
+                 "league": "premierleague",
                  "date": "August 6",
                  "time": "0 - 1",
                  "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
