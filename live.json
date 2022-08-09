@@ -1,6 +1,45 @@
 [
 
+{
+           "league": "Club Friendly",
+            "date": "August 9",
+            "time": "16:00",
+            "himg": "https://api.sofascore.app/api/v1/team/22536/image",
+            "aimg": "https://api.sofascore.app/api/v1/team/22541/image",
+            "teams" : "MALAYSIA U19 VS MYANMAR U19",
+            "hteam" : "MALAYSIA U19",
+            "ateam" : "MYANMAR U19",
+             
+"link":[
+                {
+                    "type": "1080p",
+                "livelink":"https://vsd151.mycdn.me:443/hls/2905972345425.m3u8/sig/FF0rKRnQrkk/expires/1659984031287/srcIp/160.179.203.126/clientType/0/srcAg/CHROME_ANDROID/mid/4742440754769/2905972345425_high/index.m3u8"
+                },
+                {
+                    "type": "720p",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H8471250.m3u8?txSecret=67dc6ce40ff2e240fc464f190b317481&txTime=62F119BA&_s=stream"
+                },
+                {
+                    "type": "480p",
+                "livelink":"http://27assia.com/hls/42.m3u8?md5=GmbMu0LX-Hv08P6GDx_a8A&expires=1659898343"
+                },
 
+
+                {
+                    "type": "FHD1",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62eff7bf9c2522001c5f0fdd/62eff7bf9c2522001c5f0fdd.m3u8"
+                },
+                {
+                    "type": "FHD2",
+                "livelink":"https://craff23.s.llnwi.net/live/streamhd8232.m3u8"
+                },
+                {
+                    "type": "FHD3",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H8471250.m3u8?txSecret=67dc6ce40ff2e240fc464f190b317481&txTime=62F119BA&_s=stream"
+                }
+
+            ]
+         },
 
 
 {
