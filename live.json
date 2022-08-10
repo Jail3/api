@@ -3,12 +3,12 @@
 {
            "league": "Club Friendly",
             "date": "August 9",
-            "time": "Ended",
-            "himg": "https://api.sofascore.app/api/v1/team/22536/image",
-            "aimg": "https://api.sofascore.app/api/v1/team/22541/image",
-            "teams" : "MALAYSIA U19 VS MYANMAR U19",
-            "hteam" : "MALAYSIA U19",
-            "ateam" : "MYANMAR U19",
+            "time": "1 : 30 AM",
+            "himg": "https://api.sofascore.app/api/v1/team/2829/image",
+            "aimg": "https://api.sofascore.app/api/v1/team/2674/image",
+            "teams" : "Real Madrid Vs E.FrankFurt",
+            "hteam" : "Real Madrid",
+            "ateam" : "E.FrankFurt",
              
 "link":[
                 {
