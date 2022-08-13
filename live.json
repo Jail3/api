@@ -7,9 +7,9 @@
 "hteam":"Aston Villa",
 "ateam":"Everton",
 "link":[ { "type": "1080p", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/62f783e92c1546001d39f129/62f783e92c1546001d39f129.m3u8" },
+"livelink":"https://live.wowaha.tv/live/2000/chunks.m3u8" },
  { "type": "720p", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/62f783e92c1546001d39f129/62f783e92c1546001d39f129.m3u8" 
+"livelink":"https://live.wowaha.tv/live/2000/chunks.m3u8" 
   }
   ]
   },
