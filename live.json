@@ -15,6 +15,10 @@
 { "type": "360p", 
 "livelink":"https://avdvs-usea.streaming.media.azure.net:443/6770b689-e2f1-42c8-aede-740052f7eb96/0efc28a8-e805-4ee2-ad59-295a23c17d0d.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-cmaf)"
   }
+,
+{ "type": "SD", 
+"livelink":"https://standard-pull.lbotas.com/bd/10021_428429_lhd.m3u8?auth_key=1660566744-0-0-1f11dcac1bff0e2a52352ac472e1ee00s(3500000)/Manifest(video,format=m3u8-cmaf)"
+  }
 
   ]
   },
