@@ -25,7 +25,7 @@
 
     {"league":"Premier League",
 "date":"Sun, Aug 14",
-"time":"live",
+"time":"End",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
 "teams":"Chelsea Vs Tottenham",
@@ -80,7 +80,7 @@
          },
                 {"league":"Premier League",
            "date":"Sat, Aug 13",
-        "time":"20:30",
+        "time":"End",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
          "teams":"Southampton Vs Leeds United",
