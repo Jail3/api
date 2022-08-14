@@ -33,8 +33,8 @@
 "ateam":"Tottenham",
 "link":
 [ { "type": "1080p",
- "livelink":"https://livestream-2.socialstreaming.tv/live/62f90936478ad4001c74b99e/62f90936478ad4001c74b99e.m3u8" },
- { "type": "720p", "livelink":"https://livestream-2.socialstreaming.tv/live/62f90936478ad4001c74b99e/62f90936478ad4001c74b99e.m3u8"
+ "livelink":"https://2200.janjua.pw:8088/adfree/BeinBP1/playlist.m3u8?vidictid=192184454481&id=107981&pk=eab92f3a605169161123327679d169736cad22441079fd8bcf02317134ea10cd" },
+ { "type": "720p", "livelink":"https://2200.janjua.pw:8088/adfree/BeinBP1/playlist.m3u8?vidictid=192184454481&id=107981&pk=eab92f3a605169161123327679d169736cad22441079fd8bcf02317134ea10cd"
      }  
        ]  
 
