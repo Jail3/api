@@ -16,7 +16,7 @@
 "livelink":"https://sun.meta-scores.com/e4b0e4e86a/index.m3u8"
   }
 ,
-{ "type": "embed", 
+{ "type": "test", 
 "livelink":"http://emb.myfootlive.com/d/epl1_1.m3u8"
   }
 
