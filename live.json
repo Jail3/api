@@ -33,8 +33,8 @@
 "ateam":"Aston Villa",
 "link":
 [ { "type": "1080p",
- "livelink":"bd\/10021_920573_lhd.m3u8?auth_key=1661088303-0-0-386b665fdad239bef25f7fd63e90ae7c","flv":"https:\/\/standard-pull.lbotas.com\/bd\/10021_920573_lhd.flv?auth_key=1661088303-0-0-a2ecd1c2e843215f5e88e1a8e08940d8" },
- { "type": "720p", "livelink":"bd\/10021_920573_lhd.m3u8?auth_key=1661088303-0-0-386b665fdad239bef25f7fd63e90ae7c","flv":"https:\/\/standard-pull.lbotas.com\/bd\/10021_920573_lhd.flv?auth_key=1661088303-0-0-a2ecd1c2e843215f5e88e1a8e08940d8"
+ "livelink":"https://standard-pull.lbotas.com/bd/10021_920573_lhd.flv?auth_key=1661088303-0-0-a2ecd1c2e843215f5e88e1a8e08940d8" },
+ { "type": "720p", "livelink":"https://standard-pull.lbotas.com/bd/10021_920573_lhd.flv?auth_key=1661088303-0-0-a2ecd1c2e843215f5e88e1a8e08940d8"
      }  
        ]  
 
