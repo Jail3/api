@@ -112,7 +112,7 @@
         },
                         {"league":"Bundesliga",
   "date":"Sat, Aug 20",
-    "time":"8:00 PM",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
     "teams":"DorStuttgart Vs WerderBremen",
@@ -120,24 +120,24 @@
     "ateam":"WerderBremen",
   "link":[ { "type": "1080p",
 
- "livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1660419500-0-0-ddea534ad2f9d71c84ca1f53a14bfef3" },
+ "livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25" },
    { "type": "720p", 
 
-"livelink":"https://71cea120ceb9.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.005990487620.channel.jjDTR4Z9qh4V.m3u8"
+"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
    },
 {"type": "SD", 
 
-"livelink":"https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1660419500-0-0-ddea534ad2f9d71c84ca1f53a14bfef3"
+"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_920573_lhd.m3u8?auth_key=1660492720-0-0-bb6925821bddeed59a8e07cd72955cdd"
+"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
    },
 
 {"type": "HD", 
 
-"livelink":"https://sun.meta-scores.com/c351067ee8_fhd2/c351067ee8_fhd2@720p.m3u8"
+"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
    }
 
       ] 
