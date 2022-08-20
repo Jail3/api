@@ -80,15 +80,15 @@
          },
                 {"league":"Premier League",
            "date":"Sat, Aug 20",
-        "time":"8:30 PM",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
          "teams":"Leicester vs Southampton Vs",
        "hteam":"Leicester",
          "ateam":"Southamton",
          "link":[ { "type": "1080p",
-          "livelink":"https://cp.zabexin.com/hls/36ee2dcbf04db6e2321cae3b7b39c001/chunklist.txt" },
-        { "type": "720p", "livelink":"https://cp.zabexin.com/hls/36ee2dcbf04db6e2321cae3b7b39c001/chunklist.txt" 
+          "livelink":"https://livestream-2.socialstreaming.tv/live/6300df653baef9001da9b531/6300df653baef9001da9b531.m3u8" },
+        { "type": "720p", "livelink":"https://livestream-2.socialstreaming.tv/live/6300df653baef9001da9b531/6300df653baef9001da9b531.m3u8" 
 
  }    ]
            },
