@@ -82,6 +82,15 @@
 
          "livelink":"http://emb.myfootlive.com/d/epl1_3.m3u8" 
       }
+,
+
+
+
+
+{ "type": "China",
+
+         "livelink":"https://standard-pull.lbotas.com/bd/10021_905567_lhd.m3u8?auth_key=1661180404-0-0-9b9d182bcdfd83164c1b705304ce3de1"}
+
         ]
          },
                 {"league":"Premier League",
