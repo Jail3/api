@@ -19,6 +19,17 @@
 { "type": "SD", 
 "livelink":"https://standard-pull.lbotas.com/bd/10021_428408_lhd.m3u8?auth_key=1661279382-0-0-b786056e10d0b7cb0d9bc2a584e43b1a"
   }
+,
+
+
+{ "type": "FHD", 
+"livelink":"https://livestream-2.socialstreaming.tv/live/6303c93d3baef9001da9b629/6303c93d3baef9001da9b629.m3u8"
+  }
+,
+{ "type": "HD", 
+"livelink":"https://vsd112.mycdn.me/hls/2962610915921.m3u8/sig/Od-5rG_gdu8/expires/1661280948836/srcIp/160.179.164.174/clientType/0/srcAg/CHROME_ANDROID/mid/4791371832913/2962610915921_fullhd/index.m3u8"
+  }
+
 
   ]
   },
