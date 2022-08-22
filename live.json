@@ -9,11 +9,11 @@
 "link":[ { "type": "1080p", 
 "livelink":"https://standard-pull.lbotas.com/bd/10021_916158_lhd.m3u8?auth_key=1661280039-0-0-277624f7a99ca11e7eedf6f6244c4acc"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_916158_lhd.m3u8?auth_key=1661280039-0-0-277624f7a99ca11e7eedf6f6244c4acc" 
+"livelink":"https://standard-pull.lbotas.com/bd/10021_649422_lhd.m3u8?auth_key=1661279408-0-0-0b87201e718f7cd5d915a669ec06e378" 
   },
 
-{ "type": "No link", 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_831947_lhd.m3u8?auth_key=1661173096-0-0-1902b762ce04063cf6488187373a11bc"
+{ "type": "360p", 
+"livelink":"https://standard-pull.lbotas.com/bd/10021_428429_lhd.m3u8?auth_key=1661279478-0-0-f06a7e861a2dcaa0d358b9bb43181423"
   }
 ,
 { "type": "No link", 
