@@ -1,22 +1,22 @@
 [{"league":"Premier League",
 "date":"Tue, Aug 23",
-"time":"1:30AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "teams":"Man U Vs liverpool",
 "hteam":"Man U ",
 "ateam":"Liverpool ",
 "link":[ { "type": "1080p", 
-"livelink":"http://emb.myfootlive.com/d/epl1.m3u8"        },
+"livelink":"https://standard-pull.lbotas.com/bd/10021_916158_lhd.m3u8?auth_key=1661280039-0-0-277624f7a99ca11e7eedf6f6244c4acc"        },
  { "type": "720p", 
-"livelink":"http://emb.myfootlive.com/d/epl1_3.m3u8" 
+"livelink":"https://standard-pull.lbotas.com/bd/10021_916158_lhd.m3u8?auth_key=1661280039-0-0-277624f7a99ca11e7eedf6f6244c4acc" 
   },
 
-{ "type": "360p", 
+{ "type": "No link", 
 "livelink":"https://standard-pull.lbotas.com/bd/10021_831947_lhd.m3u8?auth_key=1661173096-0-0-1902b762ce04063cf6488187373a11bc"
   }
 ,
-{ "type": "test", 
+{ "type": "No link", 
 "livelink":"http://emb.myfootlive.com/d/epl1_1.m3u8"
   }
 
