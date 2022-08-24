@@ -1,42 +1,42 @@
 [{"league":" CLUB FRIENDLIES" ,
 "date":"Thu, Aug 25",
-"time":"2:00AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
 "teams":"BARCELONA vs Man City",
 "hteam":"Barcelona ",
 "ateam":"Man City",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_916158_lhd.m3u8?auth_key=1661280039-0-0-277624f7a99ca11e7eedf6f6244c4acc"        },
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_649422_lhd.m3u8?auth_key=1661279408-0-0-0b87201e718f7cd5d915a669ec06e378" 
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_428429_lhd.m3u8?auth_key=1661279478-0-0-f06a7e861a2dcaa0d358b9bb43181423"
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
 { "type": "SD", 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_428408_lhd.m3u8?auth_key=1661279382-0-0-b786056e10d0b7cb0d9bc2a584e43b1a"
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
 
 
 { "type": "FHD", 
-"livelink":"https://livestream-2.socialstreaming.tv/live/6303c93d3baef9001da9b629/6303c93d3baef9001da9b629.m3u8"
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
 { "type": "HD", 
-"livelink":"https://vsd112.mycdn.me/hls/2962610915921.m3u8/sig/Od-5rG_gdu8/expires/1661280948836/srcIp/160.179.164.174/clientType/0/srcAg/CHROME_ANDROID/mid/4791371832913/2962610915921_fullhd/index.m3u8"
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
 
 { "type": "FHD ENG", 
-"livelink":"http://jnhbgvsdvb.azureedge.net/live/sspl/chunks.m3u8"
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
 { "type": "HD  ENG", 
-"livelink":"http://xcefe.vladruman.com:8080/hls/007.m3u8"
+"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 
   ]
