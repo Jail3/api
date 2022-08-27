@@ -7,35 +7,35 @@
 "hteam":" SOUTHAMPTON",
 "ateam":"Man U",
 "link":[ { "type": "1080p", 
-"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"        },
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428437_lhd.m3u8?auth_key=1661684839-0-0-70428ed92334d5652fe808b33cdc0401"        },
  { "type": "720p", 
-"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8" 
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428429_lhd.m3u8?auth_key=1661684561-0-0-2290abd27609a5c761695597a32debc5" 
   },
 
 { "type": "360p", 
-"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831947_lhd.m3u8?auth_key=1661684455-0-0-8e515f249a0b16cbc5dc205c09cd9bee"
   }
 ,
 { "type": "SD", 
-"livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661684065-0-0-604f2af1858a002a1639e1436db0a5c7"
   }
 ,
 
 
-{ "type": "FHD", 
+{ "type": "FHD(Nolive)", 
 "livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
-{ "type": "HD", 
+{ "type": "HD(Nolive)", 
 "livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
 
-{ "type": "FHD ENG", 
+{ "type": "FHD ENG(Nolive)", 
 "livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 ,
-{ "type": "HD  ENG", 
+{ "type": "HD  ENG(Nolive)", 
 "livelink":"https://live.wowaha.tv/live/1000/chunks.m3u8"
   }
 
