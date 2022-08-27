@@ -44,7 +44,7 @@
 
     {"league":"Premier League",
 "date":"sat, Aug 27",
-"time":"live",
+"time":"1-1",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
 "teams":" BRENTFORD vs  EVERTON",
@@ -61,7 +61,7 @@
              },
         {"league":"Premier League",
   "date":"Sat, Aug 27",
-  "time":"live",
+  "time":"1-0",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
        "teams":"BRIGHTON  Vs leeds",
@@ -79,7 +79,7 @@
       },
             {"league":"Premier League",
  "date":"Sat, Aug 27",
-     "time":"live",
+     "time":"2-1",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 
@@ -114,7 +114,7 @@
          },
                 {"league":"Premier League",
            "date":"Sat, Aug 27",
-        "time":"live",
+        "time":"9-0",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
          "teams":"Liverpool vs BOURNEMOUTH ",
@@ -129,7 +129,7 @@
                     {"league":"Premier League",
         "date":"Sat, Aug 27",
 
-           "time":"live",
+           "time":"4-2",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
@@ -146,7 +146,7 @@
         },
                         {"league":"Bundesliga",
   "date":"Sat, Aug 27",
-    "time":"11:00 pm",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
     "teams":"Arsenal Vs FULHAM",
@@ -154,24 +154,24 @@
     "ateam":"FULHAM",
   "link":[ { "type": "1080p",
 
- "livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616673-0-0-93bf963648a8a774c69f1ce93e752f17" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831956_lhd.m3u8?auth_key=1661702130-0-0-96c179329e5e85faa7f91f47a9d95042"
    },
 {"type": "SD", 
 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661616673-0-0-8c9ef83fd60d6d4a099f9e736a6671c7"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661702292-0-0-439f691c52ba39baab6434c6e0987e18"
    },
 
 {"type": "HD", 
 
-"livelink":"https://standard-pull.lbotas.com/bd/10021_862974_lhd.m3u8?auth_key=1661087232-0-0-83f3efa354231911957d66053fa12c25"
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_649422_lhd.m3u8?auth_key=1661702271-0-0-dd038e679477ab5ab8f74a9950b9f218"
    }
 
       ] 
