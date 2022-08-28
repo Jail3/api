@@ -1,32 +1,32 @@
 [{"league":" PREMIER LEAGUE" ,
 "date":"sun, Aug 28",
-"time":"7:30 pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
 "teams":"Aston Villa vs West Ham",
 "hteam":" Aston Villa",
 "ateam":"WEST HAM",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428437_lhd.m3u8?auth_key=1661684839-0-0-70428ed92334d5652fe808b33cdc0401"        },
+"livelink":"https://yypull.luojizhongyi.com/live/stream-470943.m3u8?auth_key=1661675773-0-0-0e36561c2967f983833bac6f9331989f"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428429_lhd.m3u8?auth_key=1661684561-0-0-2290abd27609a5c761695597a32debc5" 
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428429_lhd.m3u8?auth_key=1661775200-0-0-e3d5e74a3a2ce3b704efd4dada5fa885" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831947_lhd.m3u8?auth_key=1661684455-0-0-8e515f249a0b16cbc5dc205c09cd9bee"
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831938_lhd.m3u8?auth_key=1661775991-0-0-b2bebbc8cb1f3168f1b88400ab841509"
   }
 ,
-{ "type": "SD", 
+{ "type": "SD( nolink)", 
 "livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661684065-0-0-604f2af1858a002a1639e1436db0a5c7"
   }
 ,
 
 
-{ "type": "FHD", 
+{ "type": "FHD(nolink)", 
 "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqEFhzYQE42yH-DBo52wVZSZut9GcFf2oVAM1gCGfXrFvlSyUY3nXnNEXgJUqqQkcqHqk9LXngipPntvSyamddvBbTYl1sYwTDIrFvoqZXH88lyAbvf2lEL3PBBLVGqPFLwuHi3ldzdRujja_5_jOSUmK0TcEIPmGQcK1qd7fDWaSWS2fRzRRuhdaSbG36cQWuZUNZC7H_LfCo6E_TuNKOTixuwfVmZDQ6NW3NLn9DoEf1drqxgvyqZG486kpnFNXAgnb_t8GjDrGKivGlxq6zLguqoDwhww54fzGsbjzETGPyvzMtm66d5VykC2-4sYi-NKaeGTg7ducIh4WoUSTgY1HB7SuW7Q-fpAaY5sExPse2l89OZKIfYPlWjQoogiDvgnrOzMTfYiNXEAaZ_g_GaQ9hogcqETrUobsOHGFxMsXAQMmSRe8NrovB6_UcZemQJqPcTOKasOd9UoV4-h0Z-xgid0MWX3Ju3sAz2yoVJjHCoI0psXj8so1Vy8_3xZVzJ75fY6a8ZQlW6YihJrENpv_PPnj-rAN7-XEugYTPT5vI1artdhE1stmvh4XgBPOGo1U1Iwzm226DuLrGoPSWu0coKc_elWTuvvFvqagCKGFzKgJ_v1J1Ss0TEAY0JLOWka-mJuWLzFNnALvtsvmu1XY2ctm_bMKIXJR8B_LAi4s4bsGuB0Y2LN9AzS7gGWFWAomUphny3HgwsNW8eUNxKIjiKn0752SRq1mCSi3deW2GW2pQgAkIc-cVOc1ZFM8x7Ir9RsQq5cWCSxLSjppoh8hYzdS5SJN9l8HQDspvPwhJSpkgfQPOPtaCaBSIxMpdd986lAsKpNpGP9FHzjREkBy3fUwZ0daol95B_klQZb_7WBWk83yym0cxomoavpXZvirRoMD9oOsqE1GE1iJREoIAEqCXVzLWVhc3QtMjDCBA.m3u8"
   }
 ,
-{ "type": "HD(ENG)", 
+{ "type": "HD(ENG)(nolink)", 
 "livelink":"https://livestream-2.socialstreaming.tv/live/6309f7c5b9f740001de3589e/6309f7c5b9f740001de3589e.m3u8"
   }
 ,
@@ -44,7 +44,7 @@
 
     {"league":"Premier League",
 "date":"sun, Aug 28",
-"time":"7:30 pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10261_large.png",
 "teams":" wolves vs  NEWCASTLE",
@@ -52,10 +52,18 @@
 "ateam":"NEWCASTLE",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.owrsoi.cn/bko/10021_831947_lhd.m3u8?auth_key=1661693046-0-0-f24bccd274afb196171b7ea80a903d64" },
+ "livelink":"https://standard-pull.owrsoi.cn/bko/10021_866196_lhd.m3u8?auth_key=1661777059-0-0-219e42c82fbf5a1a3f6eec5bfe12beac" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-235503.m3u8?auth_key=1661616613-0-0-3b3c832cf14c986320b0c200e83a6c70"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-2412304.m3u8?auth_key=1661675593-0-0-f50d2184f2b8b3d28075a6ad801ecd13"
+     }  ,
+
+{ "type": "HD",
+ "livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661773971-0-0-0b92ff1065e77a0162650b17a7685033" },
+ { "type": "FHD", 
+"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428437_lhd.m3u8?auth_key=1661777672-0-0-f4be042bc19e9734946ec930fa707784"
      }  
+
+
        ]  
 
              },
