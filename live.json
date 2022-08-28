@@ -1,6 +1,6 @@
 [{"league":" PREMIER LEAGUE" ,
 "date":"sun, Aug 28",
-"time":"live",
+"time":"0-1",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
 "teams":"Aston Villa vs West Ham",
@@ -44,7 +44,7 @@
 
     {"league":"Premier League",
 "date":"sun, Aug 28",
-"time":"live",
+"time":"1-1",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10261_large.png",
 "teams":" wolves vs  NEWCASTLE",
@@ -69,18 +69,18 @@
              },
         {"league":"Premier League",
   "date":"Sun, Aug 28",
-  "time":"10:00pm",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
        "teams":" NOTTM FOREST Vs TOTTENHAM",
       "hteam":"Nottm Forest ",
       "ateam":"TOTTENHAM ",
         "link":[ { "type": "1080p", 
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-441616.m3u8?auth_key=1661616433-0-0-83caebd9ded408c90a5ac1f8f729ceb7" 
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-2412304.m3u8?auth_key=1661676013-0-0-0e5c8329e132f71cdb671d6826256113" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-489740.m3u8?auth_key=1661616433-0-0-a2b77da39867a3548fc1fe712cafe2cd"
+          "livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661785162-0-0-a51548db7d59c9f8dcd60bb12ce95da8"
        }
 
    ]
