@@ -1,19 +1,19 @@
 [{"league":" PREMIER LEAGUE" ,
 "date":"Tue, Aug 31",
-"time":"1:00AM",
+"time":live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
 "teams":" CRYSTAL PALACE vs Brentford ",
 "hteam":" Crystal palace",
 "ateam":"Brentford",
 "link":[ { "type": "1080p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-470943.m3u8?auth_key=1661675773-0-0-0e36561c2967f983833bac6f9331989f"        },
+"livelink":"https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1661969647-0-0-a10019cfd12b6be95e66526920408ad9"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428429_lhd.m3u8?auth_key=1661775200-0-0-e3d5e74a3a2ce3b704efd4dada5fa885" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-402805.m3u8?auth_key=1661895193-0-0-87d69828aaf8b0c22a62588439732279" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831938_lhd.m3u8?auth_key=1661775991-0-0-b2bebbc8cb1f3168f1b88400ab841509"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1661968997-0-0-3a8fee9808d13d8a9b4b7edfd638d512"
   }
 ,
 { "type": "SD( nolink)", 
