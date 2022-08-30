@@ -91,7 +91,7 @@
       },
             {"league":"Premier League",
  "date":"Tue, Aug 31",
-     "time":"1:15AM",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
 
@@ -102,16 +102,16 @@
         "ateam":"chelsea",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616373-0-0-5f5c9f2aed736d33c4357b721e8b490f"
+        "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661895253-0-0-aeaf0b71fe42ec1d910cbfb298d5f6d4"
       },
          { "type": "720p",
 
-         "livelink":"https://standard-pull.owrsoi.cn/bko/10021_905565_lhd.m3u8?auth_key=1661693085-0-0-9c344af404cf9e5b5842ae610ba1d4e7" 
+         "livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1661970475-0-0-179992d63d062c88eadbe6281a36a591" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://standard-pull.owrsoi.cn/bko/10021_831952_lhd.m3u8?auth_key=1661693135-0-0-3d5206a323bdfea0b3a217ba2b0563b8" 
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1661895313-0-0-9fe46ff36137fc2944b52fcbf2638b58" 
       }
 ,
 
@@ -120,7 +120,7 @@
 
 { "type": "China",
 
-         "livelink":"https://standard-pull.owrsoi.cn/bko/10021_831938_lhd.m3u8?auth_key=1661687611-0-0-8293bf6eb49b628ac653e67347ccb6ad"}
+         "livelink":"https://standard-pull.hsake.com/boc/10021_905568_lhd.m3u8?auth_key=1661970728-0-0-805e0a49cd483536a0ed5956669f4c81"}
 
         ]
          },
