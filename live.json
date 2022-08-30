@@ -44,7 +44,7 @@
 
     {"league":"Premier League",
 "date":"Tue, Aug 31",
-"time":"1:00am",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
 "teams":" Fulham vs Brighton",
@@ -52,15 +52,15 @@
 "ateam":"Brighton",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.owrsoi.cn/bko/10021_866196_lhd.m3u8?auth_key=1661777059-0-0-219e42c82fbf5a1a3f6eec5bfe12beac" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661895253-0-0-7fad3761b934714570cc20ae211a6e46" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-2412304.m3u8?auth_key=1661675593-0-0-f50d2184f2b8b3d28075a6ad801ecd13"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428447_lhd.m3u8?auth_key=1661968538-0-0-f6823669fa2833a3afb6d800da02e79b"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661773971-0-0-0b92ff1065e77a0162650b17a7685033" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428436_lhd.m3u8?auth_key=1661970116-0-0-fbc0dce80aaaa025982cd326b31bef46" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428437_lhd.m3u8?auth_key=1661777672-0-0-f4be042bc19e9734946ec930fa707784"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428436_lhd.m3u8?auth_key=1661970116-0-0-fbc0dce80aaaa025982cd326b31bef46"
      }  
 
 
