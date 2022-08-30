@@ -69,23 +69,23 @@
              },
         {"league":"Premier League",
   "date":"Tue, Aug 31",
-  "time":"1:30AM",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
        "teams":"Leeds Vs Everton",
       "hteam":"Leeds ",
       "ateam":"Everton",
         "link":[ { "type": "1080p", 
-          "livelink":"https://standard-pull.owrsoi.cn/bko/10021_428437_lhd.m3u8?auth_key=1661785169-0-0-5d356bac5a43ff12191638ee9329047b" 
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1661895373-0-0-10f826ac6ece89bacd32bd2b72cf5329" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661785162-0-0-a51548db7d59c9f8dcd60bb12ce95da8"
+          "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1661970558-0-0-e3fb7c07dd0f821200561219beb686d6"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://sun.meta-scores.com/0b6ae371ea/0b6ae371ea@720p.m3u8"
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-466758.m3u8?auth_key=1661895373-0-0-975a0088e99e1f968e040cbe0217db1d"
        }
    ]
       },
