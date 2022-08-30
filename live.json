@@ -126,15 +126,15 @@
          },
                 {"league":"SerieA",
            "date":"Tue, Aug 31",
-        "time":"1:15am",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
          "teams":"Roma vs monza ",
        "hteam":"Roma",
          "ateam":"monza",
          "link":[ { "type": "1080p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-371492.m3u8?auth_key=1661616553-0-0-fd2499d01464312d8d8d5a42dc8f5dd3" },
-        { "type": "720p", "livelink":"https://standard-pull.owrsoi.cn/bko/10021_428439_lhd.m3u8?auth_key=1661693431-0-0-648f027ec80e8a0ef389aaf65bc7bea3" 
+          "livelink":"https://standard-pull.hsake.com/boc/10021_428432_lhd.m3u8?auth_key=1661968737-0-0-2b1d16abbeb31ee737811ccf388498cb" },
+        { "type": "720p", "livelink":"https://standard-pull.hsake.com/boc/10021_428427_lhd.m3u8?auth_key=1661970315-0-0-289d8189c8eeeee3689e1e42a39f6b43" 
 
  }    ]
            },
