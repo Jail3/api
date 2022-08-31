@@ -91,7 +91,7 @@
       },
             {"league":"Premier League",
  "date":"Thu, sep 1",
-     "time":"1:15AM",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
 
@@ -102,16 +102,16 @@
         "ateam":"Tootenham",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661895253-0-0-aeaf0b71fe42ec1d910cbfb298d5f6d4"
+        "livelink":"https://yypull.luojizhongyi.com/live/stream-71742345.m3u8?auth_key=1661978653-0-0-198d4d168ded22fdafc76dbdf8e3e7b6"
       },
          { "type": "720p",
 
-         "livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1661970475-0-0-179992d63d062c88eadbe6281a36a591" 
+         "livelink":"https://standard-pull.hsake.com/boc/10021_920573_lhd.m3u8?auth_key=1662048074-0-0-8981083ee6f2d1a4b89ee718d7c58692" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1661895313-0-0-9fe46ff36137fc2944b52fcbf2638b58" 
+         "livelink":"https://standard-pull.hsake.com/boc/10021_905568_lhd.m3u8?auth_key=1662056383-0-0-7d6f55c0b05b3e38efecdb155780bfe8" 
       }
 ,
 
@@ -120,13 +120,13 @@
 
 { "type": "China",
 
-         "livelink":"https://standard-pull.hsake.com/boc/10021_905568_lhd.m3u8?auth_key=1661970728-0-0-805e0a49cd483536a0ed5956669f4c81"}
+         "livelink":"https://standard-pull.hsake.com/boc/10021_905568_lhd.m3u8?auth_key=1662056383-0-0-7d6f55c0b05b3e38efecdb155780bfe8"}
 
         ]
          },
                 {"league":"SerieA",
            "date":"Tue, Aug 31",
-        "time":"live",
+        "time":"END",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
          "teams":"Roma vs monza ",
@@ -141,7 +141,7 @@
                     {"league":"Premier League",
         "date":"Thu, sep 1",
 
-           "time":"1:30AM",
+           "time":"live",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
@@ -152,7 +152,7 @@
      "link":[ { "type": "1080p", "livelink":"https://yypull.luojizhongyi.com/live/stream-2412304.m3u8?auth_key=1661616493-0-0-cb302246507bea18f41ef869cca6b39b" },
      { "type": "720p", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_428408_lhd.m3u8?auth_key=1661693569-0-0-0f7be25cbd303df505b4f2c2777abb40" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-238362.m3u8?auth_key=1661978713-0-0-d326b7e3702138108c99751c6d853974" 
       }
          ]
         },
