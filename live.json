@@ -52,15 +52,15 @@
 "ateam":"Aston Villa",
 "link":
 [ { "type": "1080p",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661895253-0-0-7fad3761b934714570cc20ae211a6e46" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1661978593-0-0-ac8222cc2e22a0d3cb429ca34f89e9b9" },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428447_lhd.m3u8?auth_key=1661968538-0-0-f6823669fa2833a3afb6d800da02e79b"
+"livelink":"https://standard-pull.hsake.com/boc/10021_920576_lhd.m3u8?auth_key=1662055503-0-0-8d3da6c294db1afed21927a9f96ac350"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.hsake.com/boc/10021_428436_lhd.m3u8?auth_key=1661970116-0-0-fbc0dce80aaaa025982cd326b31bef46" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_916156_lhd.m3u8?auth_key=1662054818-0-0-f353cae06669cb98c4a3558e64997da1" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428436_lhd.m3u8?auth_key=1661970116-0-0-fbc0dce80aaaa025982cd326b31bef46"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662048319-0-0-ed097a6e577eea22d822d36e782bef4d"
      }  
 
 
