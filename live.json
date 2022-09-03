@@ -302,7 +302,7 @@
 
                         {"league":"SerieA",
   "date":"Sat, sep 3",
-    "time":"10:30pm",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
     "teams":"Milan vs inter",
@@ -310,19 +310,19 @@
     "ateam":"inter",
   "link":[ { "type": "1080p",
 
- "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616673-0-0-93bf963648a8a774c69f1ce93e752f17" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662298040-0-0-62d3d42fa8e4389b49c282f2337f24ee" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831956_lhd.m3u8?auth_key=1661702130-0-0-96c179329e5e85faa7f91f47a9d95042"
+"livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662298175-0-0-612e59fdf028a2b6ca27657ca425d803"
    },
 {"type": "SD", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661616673-0-0-8c9ef83fd60d6d4a099f9e736a6671c7"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662305399-0-0-3ad1794fc94cc1355669d1c5c9f66966"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661702292-0-0-439f691c52ba39baab6434c6e0987e18"
+"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662300369-0-0-7ae3f37dc45c29813b96ab84b6e1435b"
    },
 
 {"type": "HD", 
