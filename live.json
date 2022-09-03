@@ -145,7 +145,7 @@
                     {"league":"Premier League",
         "date":"sat, sep 3",
 
-           "time":"8:30PM",
+           "time":"live",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
@@ -153,10 +153,17 @@
 
        "hteam":"Tottenham",
       "ateam":"Fulham",
-     "link":[ { "type": "1080p", "livelink":"https://yypull.luojizhongyi.com/live/stream-2412304.m3u8?auth_key=1661616493-0-0-cb302246507bea18f41ef869cca6b39b" },
+     "link":[ { "type": "1080p",
+ "livelink":"https://standard-pull.hsake.com/boc/10021_905567_lhd.m3u8?auth_key=1662297961-0-0-91664da051fbcf2bdfab32632a66e070" },
      { "type": "720p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-238362.m3u8?auth_key=1661978713-0-0-d326b7e3702138108c99751c6d853974" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1662222254-0-0-49bba2bfdbb47232fe2bf618f4b5ecd7" 
+      },
+ { "type": "480p", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_920573_lhd.m3u8?auth_key=1662298072-0-0-6713d84e2260dfca85bbaa606e9e17b0" },
+     { "type": "360p", 
+
+"livelink":"https://yypull.luojizhongyi.com/live/stream-2412304.m3u8?auth_key=1662222254-0-0-3938c0c0aa8a7774182ac457b6156c50" 
       }
          ]
         },
