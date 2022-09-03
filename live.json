@@ -137,8 +137,8 @@
        "hteam":"Nottm Forest",
          "ateam":"Bournemouth",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.hsake.com/boc/10021_428432_lhd.m3u8?auth_key=1661968737-0-0-2b1d16abbeb31ee737811ccf388498cb" },
-        { "type": "720p", "livelink":"https://standard-pull.hsake.com/boc/10021_428427_lhd.m3u8?auth_key=1661970315-0-0-289d8189c8eeeee3689e1e42a39f6b43" 
+          "livelink":"https://standard-pull.hsake.com/boc/10021_428427_lhd.m3u8?auth_key=1662298351-0-0-253f717fb8ebc45de42b766e0c49f006" },
+        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-9457891.m3u8?auth_key=1662222134-0-0-b6bc3c8c3ed025ee32bbd8ec0184eaca" 
 
  }    ]
            },
@@ -169,7 +169,7 @@
         },
                         {"league":"premier league",
   "date":"Sat, sep 3",
-    "time":"8:30pm",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
     "teams":"wolves vs southampton",
@@ -177,14 +177,14 @@
     "ateam":"southampton",
   "link":[ { "type": "1080p",
 
- "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616673-0-0-93bf963648a8a774c69f1ce93e752f17" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_778167_lhd.m3u8?auth_key=1662298946-0-0-18ea46ec42f56830d2395ac53a269729" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831956_lhd.m3u8?auth_key=1661702130-0-0-96c179329e5e85faa7f91f47a9d95042"
+"livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662298175-0-0-612e59fdf028a2b6ca27657ca425d803"
    },
 {"type": "SD", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661616673-0-0-8c9ef83fd60d6d4a099f9e736a6671c7"
+"livelink":"https://pullalilive.livnvess.com/live/stream-137359.m3u8?auth_key=1662222322-0-0-1e4d07e4400e1b96e36883b541f418a2"
    },
 
 {"type": "FHD", 
@@ -236,7 +236,7 @@
 
                         {"league":"Spain-laliga",
   "date":"Sat, sep 3",
-    "time":"8:45pm",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
     "teams":"RealMadrid vs RealBetis",
@@ -244,14 +244,14 @@
     "ateam":"RealBestis",
   "link":[ { "type": "1080p",
 
- "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616673-0-0-93bf963648a8a774c69f1ce93e752f17" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662299957-0-0-23e1e68dff9403ba5cc487a3b188641d" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831956_lhd.m3u8?auth_key=1661702130-0-0-96c179329e5e85faa7f91f47a9d95042"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862972_lhd.m3u8?auth_key=1662300151-0-0-a32a3cbeac1dde776b8aa33838d705b0"
    },
 {"type": "SD", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661616673-0-0-8c9ef83fd60d6d4a099f9e736a6671c7"
+"livelink":"https://standard-pull.hsake.com/boc/10021_831947_lhd.m3u8?auth_key=1662299873-0-0-bf6b0b83b0ccd7fe33ecaf44b3cd4a1a"
    },
 
 {"type": "FHD", 
