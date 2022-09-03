@@ -52,15 +52,15 @@
 "ateam":"leeds",
 "link":
 [ { "type": "1080p",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1661978593-0-0-ac8222cc2e22a0d3cb429ca34f89e9b9" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428439_lhd.m3u8?auth_key=1662297915-0-0-cebdad7bdde1816702c58e8f823013a7" },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_920576_lhd.m3u8?auth_key=1662055503-0-0-8d3da6c294db1afed21927a9f96ac350"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-489740.m3u8?auth_key=1662221894-0-0-c13c241bb7f22c8cd8028fdf05a0ba77"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.hsake.com/boc/10021_916156_lhd.m3u8?auth_key=1662054818-0-0-f353cae06669cb98c4a3558e64997da1" },
+ "livelink":"https://pullalilive.livnvess.com/live/stream-112129.m3u8?auth_key=1662221962-0-0-4bff23ed0e46bbcaf3091921594ae1bf" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662048319-0-0-ed097a6e577eea22d822d36e782bef4d"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-489740.m3u8?auth_key=1662221894-0-0-c13c241bb7f22c8cd8028fdf05a0ba77"
      }  
 
 
