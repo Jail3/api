@@ -258,7 +258,7 @@
 
                         {"league":"SerieA",
   "date":"Sat, sep 3",
-    "time":"7:30pm",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
     "teams":"Fiorentin vs juventus",
@@ -266,19 +266,19 @@
     "ateam":"Juventus",
   "link":[ { "type": "1080p",
 
- "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616673-0-0-93bf963648a8a774c69f1ce93e752f17" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662288010-0-0-b42a4f9b7a59ce20a62d5aed3a526cb9" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831956_lhd.m3u8?auth_key=1661702130-0-0-96c179329e5e85faa7f91f47a9d95042"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662295684-0-0-16661c17803608c02c511e3b4f0ebdf3"
    },
 {"type": "SD", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661616673-0-0-8c9ef83fd60d6d4a099f9e736a6671c7"
+"livelink":"https://standard-pull.hsake.com/boc/10021_905566_lhd.m3u8?auth_key=1662295516-0-0-93e46142692a6b3bbc87f016470f61f4"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661702292-0-0-439f691c52ba39baab6434c6e0987e18"
+"livelink":"https://standard-pull.hsake.com/boc/10021_920656_lhd.m3u8?auth_key=1662294678-0-0-b66d7ab2062ecb0e79e707f97a099218"
    },
 
 {"type": "HD", 
