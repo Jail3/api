@@ -1,6 +1,6 @@
 [{"league":" PREMIER LEAGUE" ,
 "date":"sat, sep 3",
-"time":"live",
+"time":"0-0",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
 "teams":"Everton vs liverpool ",
@@ -325,7 +325,7 @@
 
                         {"league":"Bundesliga",
   "date":"Sat, sep 3",
-    "time":"8:00PM",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
     "teams":"Union vs Bayern Munchen",
@@ -333,14 +333,14 @@
     "ateam":"Bayern Munchen",
   "link":[ { "type": "1080p",
 
- "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1661616673-0-0-93bf963648a8a774c69f1ce93e752f17" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662296050-0-0-cb516e2b2b8a67b98a08948b4b4ff94b" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_831956_lhd.m3u8?auth_key=1661702130-0-0-96c179329e5e85faa7f91f47a9d95042"
+"livelink":"https://standard-pull.hsake.com/boc/10021_916156_lhd.m3u8?auth_key=1662296465-0-0-21bc29f52eeff3872fb0d0514288c593"
    },
 {"type": "SD", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1661616673-0-0-8c9ef83fd60d6d4a099f9e736a6671c7"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662296744-0-0-d7e96c8b94d5b42df183bf91ff94354b"
    },
 
 {"type": "FHD", 
