@@ -69,23 +69,27 @@
              },
         {"league":"Premier League",
   "date":"sat, sep 3",
-  "time":"8:30pm",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
        "teams":"chelsea vs westHam",
       "hteam":"Chelsea",
       "ateam":"westHam",
         "link":[ { "type": "1080p", 
-          "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662055151-0-0-e82ce0da55cf18c46fa672a93fc1b8da" 
+          "livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662298083-0-0-19186134a31cc90672dafc8890b64f5a" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-5645612.m3u8?auth_key=1661978533-0-0-1437fd2e7afb1d8f833836a235339b75"
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1662222014-0-0-8b07c3d8f7ac5a12c5c8ca028f61cd04"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662048552-0-0-b074088d3181929e72919cfaf2447122"
+          "livelink":"https://standard-pull.hsake.com/boc/10021_831956_lhd.m3u8?auth_key=1662292382-0-0-4077aae0734c59a1acba92b69b678f70"
+       },
+{ 
+          "type": "SD",
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1662222554-0-0-e8720b19ce3c3ed64aea530a03d9510c"
        }
    ]
       },
