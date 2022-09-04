@@ -60,9 +60,14 @@
 { "type": "HD",
  "livelink":"https://bf.wdjb.net/live/63621384_1662295532.m3u8" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-489740.m3u8?auth_key=1662221894-0-0-c13c241bb7f22c8cd8028fdf05a0ba77"
-     }  
+"livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1662325643-0-0-b436040423bf6d76a7dbc8a8738a8861"
+     }  ,
 
+{ "type": "HD",
+ "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1662325643-0-0-b436040423bf6d76a7dbc8a8738a8861" },
+ { "type": "FHD", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662325583-0-0-80726770b89d20516c2595d270c45a8e"
+     }  
 
        ]  
 
