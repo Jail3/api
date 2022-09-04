@@ -1,6 +1,6 @@
 [{"league":" PREMIER LEAGUE" ,
 "date":"Sun, sep 4",
-"time":"live",
+"time":"end",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 "teams":"Brighton vs leicester ",
@@ -44,7 +44,7 @@
 
     {"league":"Premier League",
 "date":"sun,sep,4",
-"time":"10:00pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
 "teams":"Man U vs Arsenal",
@@ -52,13 +52,13 @@
 "ateam":"Arsenal",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_428439_lhd.m3u8?auth_key=1662297915-0-0-cebdad7bdde1816702c58e8f823013a7" },
+ "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-489740.m3u8?auth_key=1662221894-0-0-c13c241bb7f22c8cd8028fdf05a0ba77"
+"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
      }  ,
 
 { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-112129.m3u8?auth_key=1662221962-0-0-4bff23ed0e46bbcaf3091921594ae1bf" },
+ "livelink":"https://bf.wdjb.net/live/63621384_1662295532.m3u8" },
  { "type": "FHD", 
 "livelink":"https://yypull.luojizhongyi.com/live/stream-489740.m3u8?auth_key=1662221894-0-0-c13c241bb7f22c8cd8028fdf05a0ba77"
      }  
