@@ -44,7 +44,7 @@
 
     {"league":"Premier League",
 "date":"sat,sep,3",
-"time":"live",
+"time":"5-2",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
 "teams":"Brentford vs leeds",
@@ -69,7 +69,7 @@
              },
         {"league":"Premier League",
   "date":"sat, sep 3",
-  "time":"live",
+  "time":"2-1",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
        "teams":"chelsea vs westHam",
@@ -95,7 +95,7 @@
       },
             {"league":"Premier League",
  "date":"sat, sep 3",
-     "time":"live",
+     "time":"0-0",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
 
@@ -130,7 +130,7 @@
          },
                 {"league":"premier league",
            "date":"sat, sep 3",
-        "time":"live",
+        "time":"2-3",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
          "teams":"Nottm Forest vs Bournemouth ",
@@ -145,7 +145,7 @@
                     {"league":"Premier League",
         "date":"sat, sep 3",
 
-           "time":"live",
+           "time":"2-1",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
@@ -169,7 +169,7 @@
         },
                         {"league":"premier league",
   "date":"Sat, sep 3",
-    "time":"live",
+    "time":"1-0",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
     "teams":"wolves vs southampton",
@@ -203,7 +203,7 @@
 
                         {"league":"premier league",
   "date":"Sat, sep 3",
-    "time":"live",
+    "time":"1-1",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
     "teams":"AstonVilla vs Man City",
@@ -236,7 +236,7 @@
 
                         {"league":"Spain-laliga",
   "date":"Sat, sep 3",
-    "time":"live",
+    "time":"2-1",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
     "teams":"RealMadrid vs RealBetis",
@@ -269,7 +269,7 @@
 
                         {"league":"SerieA",
   "date":"Sat, sep 3",
-    "time":"live",
+    "time":"1-1",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
     "teams":"Fiorentin vs juventus",
@@ -302,7 +302,7 @@
 
                         {"league":"SerieA",
   "date":"Sat, sep 3",
-    "time":"live",
+    "time":"3-2",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
     "teams":"Milan vs inter",
@@ -336,7 +336,7 @@
 
                         {"league":"Bundesliga",
   "date":"Sat, sep 3",
-    "time":"live",
+    "time":"1-1",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
     "teams":"Union vs Bayern Munchen",
