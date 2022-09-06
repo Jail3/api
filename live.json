@@ -168,11 +168,11 @@
 { "type": "HD",
  "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662575479-0-0-c9690fdbb041a0bb2d4951ca2490f605" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662566904-0-0-b5f636a7065d69aac0382261d8628af8"
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/d85e5662dd52b4c63a161d755398ac9f.m3u8?auth_key=3324992522-0-0-80d976cf0e497d6b84ba05ba14401299"
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
   }
 ,
 
@@ -208,7 +208,7 @@
 "livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662575808-0-0-745cdf95769d45afc12b08154b13a39a" },
      { "type": "360p", 
 
-"livelink":"http://play.qqzb666.com/live2/0635f247492b6ef8b789737c1549947b.m3u8?auth_key=3324455250-0-0-aec8a1c2b796f4aeb1c09b281924ed42" 
+"livelink":"https://pull.zzjxjz.com/live/10404_1662481703.m3u8" 
       }
          ]
         },
