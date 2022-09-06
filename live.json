@@ -1,29 +1,29 @@
 [{"league":" Champions LEAGUE" ,
 "date":"Tue, sept 6",
-"time":"11:15pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
 "teams":"Dinamo Zogreb vs  Chelsea ",
 "hteam":"Dinamo Zogreb",
 "ateam":" Chelsea",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662380592-0-0-0987d47f8815ac707a7cb596a5fb2fcf"        },
+"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662381038-0-0-8b72b183a86aa4c122b3893c08624f27" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662490694-0-0-21eb7d56f4fe5519230a5121bcacac3d" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_920573_lhd.m3u8?auth_key=1662380524-0-0-96a14ac6eec5f89243035053b7909955"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662567669-0-0-17e1c03026aa29ee27055373f2322733"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662380624-0-0-38bdecd7ebe7fc9640377a532261bdd4"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662483552-0-0-5aa707606d0f060faf4e29ba8dd31b88"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://pull.zzjxjz.com/live/10404_1662287393.m3u8UNZC7H_LfCo6E_TuNKOTixuwfVmZDQ6NW3NLn9DoEf1drqxgvyqZG486kpnFNXAgnb_t8GjDrGKivGlxq6zLguqoDwhww54fzGsbjzETGPyvzMtm66d5VykC2-4sYi-NKaeGTg7ducIh4WoUSTgY1HB7SuW7Q-fpAaY5sExPse2l89OZKIfYPlWjQoogiDvgnrOzMTfYiNXEAaZ_g_GaQ9hogcqETrUobsOHGFxMsXAQMmSRe8NrovB6_UcZemQJqPcTOKasOd9UoV4-h0Z-xgid0MWX3Ju3sAz2yoVJjHCoI0psXj8so1Vy8_3xZVzJ75fY6a8ZQlW6YihJrENpv_PPnj-rAN7-XEugYTPT5vI1artdhE1stmvh4XgBPOGo1U1Iwzm226DuLrGoPSWu0coKc_elWTuvvFvqagCKGFzKgJ_v1J1Ss0TEAY0JLOWka-mJuWLzFNnALvtsvmu1XY2ctm_bMKIXJR8B_LAi4s4bsGuB0Y2LN9AzS7gGWFWAomUphny3HgwsNW8eUNxKIjiKn0752SRq1mCSi3deW2GW2pQgAkIc-cVOc1ZFM8x7Ir9RsQq5cWCSxLSjppoh8hYzdS5SJN9l8HQDspvPwhJSpkgfQPOPtaCaBSIxMpdd986lAsKpNpGP9FHzjREkBy3fUwZ0daol95B_klQZb_7WBWk83yym0cxomoavpXZvirRoMD9oOsqE1GE1iJREoIAEqCXVzLWVhc3QtMjDCBA.m3u8"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662566651-0-0-d4d4d1f11ec64e53c5faa9608258226b"
   }
 ,
 { "type": "HD(ENG)", 
@@ -44,7 +44,7 @@
 
     {"league":"Champions League",
 "date":"Tue,sep,6",
-"time":"11:15pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8391.png",
 "teams":"Dortmund vs Fc Kebenhavn",
@@ -52,21 +52,21 @@
 "ateam":"Fc Kebenhavn",
 "link":
 [ { "type": "1080p",
- "livelink":"http://play.qqzb666.com/live2/a46573f5c0e1e33fcab782267e20968b.m3u8?auth_key=3324637222-0-0-ef5bbb201612b01ebd81373a818bf042" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662567775-0-0-4dc951eb5d8c00bd9b792694b185d1f0" },
  { "type": "720p", 
-"livelink":"https://pull.zzjxjz.com/live/10391_1662304081.m3u8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662490815-0-0-ce8b4856b7edf4a73e89c01b68d3ed4d"
      }  ,
 
 { "type": "HD",
  "livelink":"https://bf.wdjb.net/live/63621384_1662295532.m3u8" },
  { "type": "FHD", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1662325643-0-0-b436040423bf6d76a7dbc8a8738a8861"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662567494-0-0-9d6a30207d92f1ba7075112b5f1858fe"
      }  ,
 
 { "type": "HD",
- "livelink":"https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1662325643-0-0-b436040423bf6d76a7dbc8a8738a8861" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1662490815-0-0-c4e29bb0e0f8d6f198bb69c041835ba4" },
  { "type": "FHD", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1662325583-0-0-80726770b89d20516c2595d270c45a8e"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662566904-0-0-b5f636a7065d69aac0382261d8628af8"
      }  
 
        ]  
