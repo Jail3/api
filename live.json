@@ -155,7 +155,7 @@
        "hteam":"Sevilla ",
          "ateam":"Man City",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662575479-0-0-c9690fdbb041a0bb2d4951ca2490f605" },
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-1667850.m3u8?auth_key=1662490994-0-0-711012b7651a0be211d4d1683d79f85e" },
         { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1662490994-0-0-8ac442c1c261308cfb21d9d608b24a38" 
 
  }   ,
@@ -166,7 +166,7 @@
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1662490815-0-0-c4e29bb0e0f8d6f198bb69c041835ba4" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662575479-0-0-c9690fdbb041a0bb2d4951ca2490f605" },
  { "type": "FHD", 
 "livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662566904-0-0-b5f636a7065d69aac0382261d8628af8"
      } ,
