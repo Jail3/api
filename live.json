@@ -67,7 +67,20 @@
  "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1662490815-0-0-c4e29bb0e0f8d6f198bb69c041835ba4" },
  { "type": "FHD", 
 "livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662566904-0-0-b5f636a7065d69aac0382261d8628af8"
-     }  
+     } ,
+
+{ "type": "HD(ENG)(vip)", 
+"livelink":"http://play.qqzb666.com/live2/d85e5662dd52b4c63a161d755398ac9f.m3u8?auth_key=3324992522-0-0-80d976cf0e497d6b84ba05ba14401299"
+  }
+,
+
+{ "type": "FHD ENG(vip)", 
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+  }
+,
+{ "type": "HD  ENG(vip)", 
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+  }
 
        ]  
 
