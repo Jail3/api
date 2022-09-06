@@ -87,23 +87,23 @@
              },
         {"league":"Champions league",
   "date":"wed, sep 7",
-  "time":"1:30am",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
        "teams":"Celtic vs Real Madrid",
       "hteam":"Celtic",
       "ateam":"Real Madrid",
         "link":[ { "type": "1080p", 
-          "livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662298083-0-0-19186134a31cc90672dafc8890b64f5a" 
+          "livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1662222014-0-0-8b07c3d8f7ac5a12c5c8ca028f61cd04"
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-5185670.m3u8?auth_key=1662491114-0-0-b6ff4c87c15ecbf85e9418fedb1265d2"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.hsake.com/boc/10021_831956_lhd.m3u8?auth_key=1662292382-0-0-4077aae0734c59a1acba92b69b678f70"
+          "livelink":"https://standard-pull.hsake.com/boc/10021_831950_lhd.m3u8?auth_key=1662575344-0-0-ec87772d9db4b908e5c19c94321710fd"
        },
 { 
           "type": "SD",
@@ -113,7 +113,7 @@
       },
             {"league":"Champions League",
  "date":"wed, sep 7",
-     "time":"1:30am",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
 
@@ -124,16 +124,16 @@
         "ateam":"Shaktar Donetsk",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://standard-pull.hsake.com/boc/10021_905568_lhd.m3u8?auth_key=1662298058-0-0-dc429c7c97c5ee60c99df462e57943af"
+        "livelink":"https://standard-pull.hsake.com/boc/10021_428447_lhd.m3u8?auth_key=1662568468-0-0-a77e63e46ffa73533c3a3c7f084bf0de"
       },
          { "type": "720p",
 
-         "livelink":"https://yypull.luojizhongyi.com/live/stream-454257.m3u8?auth_key=1662222074-0-0-a4dfbd45bb81c1a447226ec4115cb3d0" 
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1662491174-0-0-dc37c5a40a502df67241fac7befa1286" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://standard-pull.hsake.com/boc/10021_920576_lhd.m3u8?auth_key=1662298972-0-0-ad752c57156d17677dd68f5ad501c422" 
+         "livelink":"https://standard-pull.hsake.com/boc/10021_905568_lhd.m3u8?auth_key=1662575441-0-0-4ca0b1d11a821421840a89bb45f62952" 
       }
 ,
 
@@ -190,7 +190,7 @@
                     {"league":"Champions League",
         "date":"Tue, sep 7",
 
-           "time":"1:30am",
+           "time":"live",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
@@ -199,13 +199,13 @@
        "hteam":"PSG ",
       "ateam":"Juventus",
      "link":[ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_905567_lhd.m3u8?auth_key=1662297961-0-0-91664da051fbcf2bdfab32632a66e070" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662576196-0-0-f9629412a7e828273257d93ff737df77" },
      { "type": "720p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1662222254-0-0-49bba2bfdbb47232fe2bf618f4b5ecd7" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662491234-0-0-f1f9e85db90ac060ca65e64e9c14f2d3" 
       },
  { "type": "480p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_920573_lhd.m3u8?auth_key=1662298072-0-0-6713d84e2260dfca85bbaa606e9e17b0" },
+"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662575808-0-0-745cdf95769d45afc12b08154b13a39a" },
      { "type": "360p", 
 
 "livelink":"http://play.qqzb666.com/live2/0635f247492b6ef8b789737c1549947b.m3u8?auth_key=3324455250-0-0-aec8a1c2b796f4aeb1c09b281924ed42" 
