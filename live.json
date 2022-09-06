@@ -1,6 +1,6 @@
 [{"league":" Champions LEAGUE" ,
 "date":"Tue, sept 6",
-"time":"live",
+"time":"1-0",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
 "teams":"Dinamo Zogreb vs  Chelsea ",
@@ -44,7 +44,7 @@
 
     {"league":"Champions League",
 "date":"Tue,sep,6",
-"time":"live",
+"time":"3-0",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8391.png",
 "teams":"Dortmund vs Fc Kebenhavn",
@@ -148,17 +148,44 @@
          },
                 {"league":"champions league",
            "date":"Tue, sep 7",
-        "time":"1:30am",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
          "teams":" Sevilla vs Man City ",
        "hteam":"Sevilla ",
          "ateam":"Man City",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.hsake.com/boc/10021_428427_lhd.m3u8?auth_key=1662298351-0-0-253f717fb8ebc45de42b766e0c49f006" },
-        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-9457891.m3u8?auth_key=1662222134-0-0-b6bc3c8c3ed025ee32bbd8ec0184eaca" 
+          "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662575479-0-0-c9690fdbb041a0bb2d4951ca2490f605" },
+        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1662490994-0-0-8ac442c1c261308cfb21d9d608b24a38" 
 
- }    ]
+ }   ,
+
+
+ { "type": "FHD", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662575771-0-0-b506c0b5d0078e2c63a67d28b9687d47"
+     }  ,
+
+{ "type": "HD",
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1662490815-0-0-c4e29bb0e0f8d6f198bb69c041835ba4" },
+ { "type": "FHD", 
+"livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662566904-0-0-b5f636a7065d69aac0382261d8628af8"
+     } ,
+
+{ "type": "HD(ENG)(vip)", 
+"livelink":"http://play.qqzb666.com/live2/d85e5662dd52b4c63a161d755398ac9f.m3u8?auth_key=3324992522-0-0-80d976cf0e497d6b84ba05ba14401299"
+  }
+,
+
+{ "type": "FHD ENG(vip)", 
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+  }
+,
+{ "type": "HD  ENG(vip)", 
+"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+  }
+
+
+ ]
            },
                     {"league":"Champions League",
         "date":"Tue, sep 7",
