@@ -1,19 +1,19 @@
 [{"league":" Champions LEAGUE" ,
 "date":"Thu , sept 8",
-"time":"1:30am",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "teams":"Napoli vs Liverpool",
 "hteam":"Napoli",
 "ateam":" Liverpool",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28"        },
+"livelink":"https://standard-pull.hsake.com/boc/10021_920653_lhd.m3u8?auth_key=1662653931-0-0-c885a15d9fc817f4935d58f63f093942"        },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662490694-0-0-21eb7d56f4fe5519230a5121bcacac3d" 
+"livelink":"https://standard-pull.hsake.com/boc/10021_428436_lhd.m3u8?auth_key=1662659889-0-0-c3d3285c25adf255859aff5d59fae965" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662567669-0-0-17e1c03026aa29ee27055373f2322733"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701_ld.m3u8?auth_key=1662592694-0-0-9396257e1506032ab0a6d93ed6a60f1d"
   }
 ,
 { "type": "HD( Eng )", 
@@ -44,7 +44,7 @@
 
     {"league":"Champions League",
 "date":"Thu,sep,8",
-"time":"1:30am",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
 "teams":"Atletico Madrid vs Fc Porto",
@@ -52,13 +52,13 @@
 "ateam":"Fc porto",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662567775-0-0-4dc951eb5d8c00bd9b792694b185d1f0" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662654057-0-0-7022371ec06a8e6bba28a5ea17e60324" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662490815-0-0-ce8b4856b7edf4a73e89c01b68d3ed4d"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-317957.m3u8?auth_key=1662584834-0-0-94f16331c900bd2eb7f8502b77b88953"
      }  ,
 
 { "type": "HD",
- "livelink":"https://bf.wdjb.net/live/63621384_1662295532.m3u8" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-459976_ld.m3u8?auth_key=1662592754-0-0-299a180a731a5bfa3e0485e6e6ec0fed" },
  { "type": "FHD", 
 "livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662567494-0-0-9d6a30207d92f1ba7075112b5f1858fe"
      }  ,
@@ -87,18 +87,18 @@
              },
         {"league":"Champions league",
   "date":"Thu, sep 8",
-  "time":"1:30am",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8342_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
        "teams":"Club Brugge vs leverkusen",
       "hteam":"Club Brugge",
       "ateam":"LeverKusen",
         "link":[ { "type": "1080p", 
-          "livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662567538-0-0-607e4880f42326d21be6ec988672ee28" 
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-482760.m3u8?auth_key=1662575224-0-0-c0f552e0521e917f119b064700439317" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-5185670.m3u8?auth_key=1662491114-0-0-b6ff4c87c15ecbf85e9418fedb1265d2"
+          "livelink":"https://standard-pull.hsake.com/boc/10021_831950_lhd.m3u8?auth_key=1662653771-0-0-e5580eaaaaefeb7ab6ede6e4606f72b8"
        },
 
 { 
@@ -113,7 +113,7 @@
       },
             {"league":"Champions League",
  "date":"Thu, sep 8",
-     "time":"1:30am",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",
 
@@ -124,16 +124,16 @@
         "ateam":"Viktoria Plzen",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://standard-pull.hsake.com/boc/10021_428447_lhd.m3u8?auth_key=1662568468-0-0-a77e63e46ffa73533c3a3c7f084bf0de"
+        "livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1662584594-0-0-8e0219054fc7c6034a83a858fef9bda0"
       },
          { "type": "720p",
 
-         "livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1662491174-0-0-dc37c5a40a502df67241fac7befa1286" 
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-411882.m3u8?auth_key=1662584654-0-0-4611c2eb9773094490bba8ce1d0a58c9" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://bf.wdjb.net/live/63626613_1662481413.m3u8" 
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-37723410_ld.m3u8?auth_key=1662592814-0-0-e88a91dcacd56846d11ff64414437ac6" 
       }
 ,
 
@@ -148,27 +148,27 @@
          },
                 {"league":"champions league",
            "date":"Thu, sep 8",
-        "time":"1:30am",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
          "teams":" Inter vs Bayern Munchen ",
        "hteam":"Inter ",
          "ateam":"Bayern Munchen",
          "link":[ { "type": "1080p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-1667850.m3u8?auth_key=1662490994-0-0-711012b7651a0be211d4d1683d79f85e" },
-        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1662490994-0-0-8ac442c1c261308cfb21d9d608b24a38" 
+          "livelink":"https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662654963-0-0-db748e2cbf6d1a19965cbc607bf86e17" },
+        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1662584534-0-0-5bfa00848e200fa03fdac8844de1965d" 
 
  }   ,
 
 
  { "type": "FHD", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662575771-0-0-b506c0b5d0078e2c63a67d28b9687d47"
+"livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662652825-0-0-3e1804612b16340cf1d760e5cded387e"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662575479-0-0-c9690fdbb041a0bb2d4951ca2490f605" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-371492.m3u8?auth_key=1662584534-0-0-bb9bd38fba81aba3df1e69e689d45711" },
  { "type": "FHD", 
-"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1667850_ld.m3u8?auth_key=1662592934-0-0-ea3943762c32a6d04672b96458cfad3b"
      } ,
 
 { "type": "HD(ENG)(vip)", 
@@ -190,7 +190,7 @@
                     {"league":"Champions League",
         "date":"Thu, sep 8",
 
-           "time":"1:30am",
+           "time":"live",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
@@ -199,16 +199,16 @@
        "hteam":"Tottenham",
       "ateam":"Marseille",
      "link":[ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662576196-0-0-f9629412a7e828273257d93ff737df77" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662654633-0-0-f675144f9c0cdcf82cd7dff621b9f913" },
      { "type": "720p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1662491234-0-0-f1f9e85db90ac060ca65e64e9c14f2d3" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662578912-0-0-8c16ef329d9f4221315aafe750fa0e3e" 
       },
  { "type": "480p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662575808-0-0-745cdf95769d45afc12b08154b13a39a" },
+"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662653383-0-0-b8b2c165847bfea594556002d9d60014" },
      { "type": "360p", 
 
-"livelink":"https://pull.zzjxjz.com/live/10404_1662481703.m3u8" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022_ld.m3u8?auth_key=1662588292-0-0-45b6adfce34615928b836de5156ce095" 
       }
          ]
         },
