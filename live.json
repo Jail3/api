@@ -1,29 +1,29 @@
 [{"league":"EurpaLEAGUE" ,
 "date":"Fri , sept 9",
-"time":"1:30am",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
 "teams":"Man U vs REAL SOCIEDAD",
 "hteam":"Man U",
 "ateam":" REAL SOCIEDAD",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_920653_lhd.m3u8?auth_key=1662653931-0-0-c885a15d9fc817f4935d58f63f093942"        },
+"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662739880-0-0-a409c19018f6cf8559b6e76dea0cdcb9"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428436_lhd.m3u8?auth_key=1662659889-0-0-c3d3285c25adf255859aff5d59fae965" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1662671174-0-0-47db733de719519b1b23adf94dcf188c" 
   },
 
 { "type": "360p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701_ld.m3u8?auth_key=1662592694-0-0-9396257e1506032ab0a6d93ed6a60f1d"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662740158-0-0-2ee8b01a6b8b501c6799c745b35d6b0b"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1662597203-0-0-9069fe391badf1df990a82216dc91210"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1667850_ld.m3u8?auth_key=1662680115-0-0-39d4a331741010db21003edb5464e7cc"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"http://play.qqzb666.com/live2/9df1943825c792521609e730f318e9a6.m3u8?auth_key=3325182108-0-0-638243fa046369ac733ef01218321895"
+"livelink":"https://tinyurl.com/Bhawlone-Live-360p-m3u8"
   }
 ,
 { "type": "HD(ENG)(vip)", 
@@ -44,7 +44,7 @@
 
     {"league":"Europa League",
 "date":"fri,sep,9",
-"time":"1:30AM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9723_small.png",
 "teams":"west ham vs Fc fcsb ",
@@ -52,13 +52,13 @@
 "ateam":"FC fcsb",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662654057-0-0-7022371ec06a8e6bba28a5ea17e60324" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662740438-0-0-bfe4497fc520322a5be6cf6cd27b3a8e" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-317957.m3u8?auth_key=1662584834-0-0-94f16331c900bd2eb7f8502b77b88953"
+"livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662748579-0-0-63d0418fa31c4c23fe190b614fc8bbd8"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-459976_ld.m3u8?auth_key=1662592754-0-0-299a180a731a5bfa3e0485e6e6ec0fed" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662748192-0-0-bc47b70d5b06799f2ac67f90e54f87b2" },
  { "type": "FHD", 
 "livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662567494-0-0-9d6a30207d92f1ba7075112b5f1858fe"
      }  ,
