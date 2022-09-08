@@ -214,7 +214,7 @@
         },
                         {"league":"Europaleague",
   "date":"Thu, sep 8",
-    "time":"11:15pm",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10243.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
     "teams":"FC zurich vs Arsenal",
@@ -222,24 +222,24 @@
     "ateam":"Arsenal",
   "link":[ { "type": "1080p",
 
- "livelink":"https://standard-pull.hsake.com/boc/10021_778167_lhd.m3u8?auth_key=1662298946-0-0-18ea46ec42f56830d2395ac53a269729" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662739880-0-0-a409c19018f6cf8559b6e76dea0cdcb9" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662298175-0-0-612e59fdf028a2b6ca27657ca425d803"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1662670634-0-0-cd7b7e5a4c50aa651593350dbaa369a3"
    },
 {"type": "SD", 
 
-"livelink":"https://pullalilive.livnvess.com/live/stream-137359.m3u8?auth_key=1662222322-0-0-1e4d07e4400e1b96e36883b541f418a2"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662740158-0-0-2ee8b01a6b8b501c6799c745b35d6b0b"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_920573_lhd.m3u8?auth_key=1661702292-0-0-439f691c52ba39baab6434c6e0987e18"
+"livelink":"https://standard-pull.hsake.com/boc/10021_920653_lhd.m3u8?auth_key=1662740373-0-0-c394c0bb1bc13f42a6be3f8304130183"
    },
 
 {"type": "HD", 
 
-"livelink":"https://standard-pull.owrsoi.cn/bko/10021_649422_lhd.m3u8?auth_key=1661702271-0-0-dd038e679477ab5ab8f74a9950b9f218"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1662670634-0-0-1e15d865f0f9536d9b23a71240ab23f3"
    }
 
       ] 
@@ -248,7 +248,7 @@
 
                         {"league":"Europaleague",
   "date":"Thu, sep 8",
-    "time":"1:15PM",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/210173_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
     "teams":"Ludogorets Razgrad vs Roma",
@@ -256,19 +256,19 @@
     "ateam":"Roma",
   "link":[ { "type": "1080p",
 
- "livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662307061-0-0-ac95e724db4aac16d826c926673e662b" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_920573_lhd.m3u8?auth_key=1662740018-0-0-0c607129dfbc627b4095a71afb60219f" },
    { "type": "720p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1662222434-0-0-7998c17b720b1f398de89a98888a8330"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662663450-0-0-ad33c95d3b36a7cbf62b6e09eaec9056"
    },
 {"type": "SD", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662299957-0-0-23e1e68dff9403ba5cc487a3b188641d"
+"livelink":"https://standard-pull.hsake.com/boc/10021_866196_lhd.m3u8?auth_key=1662741172-0-0-05a1826d05465df01626066e4269c83e"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_831947_lhd.m3u8?auth_key=1662299873-0-0-bf6b0b83b0ccd7fe33ecaf44b3cd4a1a"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1662670754-0-0-406ae106e650e2ea318c9ab7a55e4be2"
    },
 
 {"type": " HD ကြည်တောက်ရှင်း", 
