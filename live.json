@@ -44,7 +44,7 @@
 
     {"league":"Serie A",
 "date":"sat,sep,10",
-"time":"7:30pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 "teams":"Napoli vs Spezia ",
@@ -52,7 +52,7 @@
 "ateam":"Spezia",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662740438-0-0-bfe4497fc520322a5be6cf6cd27b3a8e" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662893747-0-0-aba170a208fc6ce991a8b6f755fd465f" },
  { "type": "720p", 
 "livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662748579-0-0-63d0418fa31c4c23fe190b614fc8bbd8"
      }  ,
