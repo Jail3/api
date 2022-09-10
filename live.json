@@ -148,14 +148,14 @@
          },
                 {"league":"bundesliga",
            "date":"Sat, sep 10",
-        "time":"20:00pm",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
          "teams":" Frankfurt vs worlfsburg ",
        "hteam":"FrankFurt",
          "ateam":"Worlfsburg",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662654963-0-0-db748e2cbf6d1a19965cbc607bf86e17" },
+          "livelink":"http://play.qqzb666.com/live2/431168dd60869cae7fd34dd52482e8be.m3u8?auth_key=3325660718-0-0-de5b252eb3a675f8e28f9e7720273456" },
         { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1662584534-0-0-5bfa00848e200fa03fdac8844de1965d" 
 
  }   ,
@@ -190,7 +190,7 @@
                     {"league":"Bundesliga",
         "date":"sat, sep 10",
 
-           "time":"8:00pm",
+           "time":"live",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
@@ -199,16 +199,16 @@
        "hteam":"RB leipzig",
       "ateam":"Dortmund",
      "link":[ { "type": "1080p",
- "livelink":"http://play.qqzb666.com/live2/e1f515f18173f6e1126f7b82e4f5c490.m3u8?auth_key=3325182822-0-0-64e08739996e6d9528103dbef1f13735" },
+ "livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662901912-0-0-f00d2420ec7195e9b5ab8e39a87691b0" },
      { "type": "720p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662578912-0-0-8c16ef329d9f4221315aafe750fa0e3e" 
+"livelink":"http://play.qqzb666.com/live2/431168dd60869cae7fd34dd52482e8be.m3u8?auth_key=3325660718-0-0-de5b252eb3a675f8e28f9e7720273456" 
       },
  { "type": "480p", 
-"livelink":"https://sun.meta-scores.com/341f28ec33/341f28ec33@720p.m3u8" },
+"livelink":"https://standard-pull.hsake.com/boc/10021_862972_lhd.m3u8?auth_key=1662895495-0-0-5e4d420e1dbeb93a35257cb12fb7e2ae" },
      { "type": "360p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022_ld.m3u8?auth_key=1662588292-0-0-45b6adfce34615928b836de5156ce095" 
+"livelink":"https://standard-pull.hsake.com/boc/10021_905567_lhd.m3u8?auth_key=1662900943-0-0-0a77424b4c24bfe75ceb9f55e519e47e" 
       }
          ]
         },
