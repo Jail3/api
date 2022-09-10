@@ -54,32 +54,32 @@
 [ { "type": "1080p",
  "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662893747-0-0-aba170a208fc6ce991a8b6f755fd465f" },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_905570_lhd.m3u8?auth_key=1662748579-0-0-63d0418fa31c4c23fe190b614fc8bbd8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.hsake.com/boc/10021_649429_lhd.m3u8?auth_key=1662748192-0-0-bc47b70d5b06799f2ac67f90e54f87b2" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428408_lhd.m3u8?auth_key=1662567494-0-0-9d6a30207d92f1ba7075112b5f1858fe"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1662490815-0-0-c4e29bb0e0f8d6f198bb69c041835ba4" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862974_lhd.m3u8?auth_key=1662566904-0-0-b5f636a7065d69aac0382261d8628af8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/d85e5662dd52b4c63a161d755398ac9f.m3u8?auth_key=3324992522-0-0-80d976cf0e497d6b84ba05ba14401299"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://pull.zzjxjz.com/live/10390_1662473124.m3u8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
   }
 
        ]  
