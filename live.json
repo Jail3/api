@@ -1,42 +1,42 @@
 [{"league":"Spain Laliga" ,
 "date":"sat , sept 10",
-"time":"11:00pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
 "teams":"Cadiz vs Barcelona",
 "hteam":"Cadiz",
 "ateam":"Barcelona",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662739880-0-0-a409c19018f6cf8559b6e76dea0cdcb9"        },
+"livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662912628-0-0-48089fab0474e3db3da8af38505a58ab"        },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1662671174-0-0-47db733de719519b1b23adf94dcf188c" 
+"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662912122-0-0-b71a4c1ee75dd6588cb38fdb43b267e8" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428429_lhd.m3u8?auth_key=1662740158-0-0-2ee8b01a6b8b501c6799c745b35d6b0b"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662912122-0-0-b71a4c1ee75dd6588cb38fdb43b267e8"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-1667850_ld.m3u8?auth_key=1662680115-0-0-39d4a331741010db21003edb5464e7cc"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662912122-0-0-b71a4c1ee75dd6588cb38fdb43b267e8"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://tinyurl.com/Bhawlone-Live-360p-m3u8"
+"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
   }
 ,
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://bf.wdjb.net/live/63621389_1662653942.m3u8"
+"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/9df1943825c792521609e730f318e9a6.m3u8?auth_key=3325182108-0-0-638243fa046369ac733ef01218321895"
+"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/9df1943825c792521609e730f318e9a6.m3u8?auth_key=3325182108-0-0-638243fa046369ac733ef01218321895"
+"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
   }
 
   ]
