@@ -1,42 +1,42 @@
 [{"league":"Spain Laliga" ,
-"date":"sat , sept 10",
+"date":"sun , sept 11",
 "time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-"teams":"Cadiz vs Barcelona",
-"hteam":"Cadiz",
-"ateam":"Barcelona",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+"teams":"Real madrid vs Mallorca",
+"hteam":"Real Madrd",
+"ateam":"Mallorca",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662912628-0-0-48089fab0474e3db3da8af38505a58ab"        },
+"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662974677-0-0-75c126b8c61f27f30e2545a0a871e32f"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662912122-0-0-b71a4c1ee75dd6588cb38fdb43b267e8" 
+"livelink":"https://standard-pull.hsake.com/boc/10021_866198_lhd.m3u8?auth_key=1662982795-0-0-9e58b4280f8b26079b3b56226b9faed8" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662912122-0-0-b71a4c1ee75dd6588cb38fdb43b267e8"
+"livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662982923-0-0-ad30d455821ceaec311e732f39e0ca34"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662912122-0-0-b71a4c1ee75dd6588cb38fdb43b267e8"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
   }
 ,
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/9fe0f330518b64aaf42a1437a2385e0c.m3u8?auth_key=3325681800-0-0-3ef106b9c5a7e8d711972817ea85fb2f"
+"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
   }
 
   ]
@@ -44,7 +44,7 @@
 
     {"league":"Serie A",
 "date":"sat,sep,10",
-"time":"live",
+"time":"end",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 "teams":"Napoli vs Spezia ",
@@ -87,7 +87,7 @@
              },
         {"league":"serie A",
   "date":"sat, sep 10",
-  "time":"live",
+  "time":"end",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
        "teams":"inter vs Torino",
@@ -113,7 +113,7 @@
       },
             {"league":"Bundesliga",
  "date":"sat, sep 10",
-     "time":"live",
+     "time":"end",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
 
@@ -148,7 +148,7 @@
          },
                 {"league":"bundesliga",
            "date":"Sat, sep 10",
-        "time":"live",
+        "time":"end",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
          "teams":" Frankfurt vs worlfsburg ",
@@ -190,7 +190,7 @@
                     {"league":"Bundesliga",
         "date":"sat, sep 10",
 
-           "time":"live",
+           "time":"end",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
@@ -214,7 +214,7 @@
         },
                         {"league":"Ligue1",
   "date":"Thu, sep 8",
-    "time":"live",
+    "time":"end",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
     "teams":"PSG vs Brest",
