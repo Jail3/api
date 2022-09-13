@@ -106,8 +106,8 @@
           "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663172475-0-0-89c09787668c404498d0cf147ecd5171"
        },
 { 
-          "type": "SD",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-466758.m3u8?auth_key=1663104135-0-0-28f9fad857fb5f24efbe00007f2d96a7"
+          "type": "SD(open vpn)",
+          "livelink":"http://57.128.137.73:9998/bt-sport2/tracks-v1a1/mono.m3u8?token=464264eb0e7a15f4448d341f935c3722bd851f0c-81882fe995091824ec0a14bc1d4e0907-1663101801-1663091001"
        }
    ]
       },
