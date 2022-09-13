@@ -3,7 +3,7 @@
 "time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"teams":"Viktorial Pizen vs Inter",
+"teams":"",
 "hteam":"Viktorial Pizen",
 "ateam":"Inter",
 "link":[ { "type": "1080p", 
@@ -32,11 +32,11 @@
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/a53524d257115a5de4ddba80a6322618.m3u8?auth_key=3326203052-0-0-1d82d2ac553e7008d15cf784b34a6cf2"
+"livelink":"https://pull.xinzhongjituan.com/live/sd-1-3808614.m3u8"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/a53524d257115a5de4ddba80a6322618.m3u8?auth_key=3326203052-0-0-1d82d2ac553e7008d15cf784b34a6cf2"
+"livelink":"https://pull.xinzhongjituan.com/live/sd-1-3808614.m3u8"
   }
 
   ]
