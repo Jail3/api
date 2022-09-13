@@ -113,7 +113,7 @@
       },
             {"league":"Bundesliga",
  "date":"wed, sep 14",
-     "time":"1:30pm",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
 
@@ -124,16 +124,16 @@
         "ateam":"Atletico Madrid",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://bf.wdjb.net/live/63621382_1662799173.m3u8"
+        "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663181062-0-0-45aad6b25f23f59658e96e3f02c861b1"
       },
          { "type": "720p",
 
-         "livelink":"https://standard-pull.hsake.com/boc/10021_428459_lhd.m3u8?auth_key=1662902731-0-0-622f505f2827268a0817c9263aff2ae7" 
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1663104255-0-0-1a4a36e6a545513399c907accf8db219" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://standard-pull.hsake.com/boc/10021_866196_lhd.m3u8?auth_key=1662901482-0-0-98715713de50ff93864dd1944eff71ba" 
+         "livelink":"https://standard-pull.jpami.com/sm/10021_916158_lhd.m3u8?auth_key=1663173828-0-0-d9393d45f636ec4e5f7ee2968f56ab80" 
       }
 ,
 
@@ -142,7 +142,7 @@
 
 { "type": "China",
 
-         "livelink":"https://standard-pull.hsake.com/boc/10021_831950_lhd.m3u8?auth_key=1662902579-0-0-fc3e9ff9aa321758379f5c1f628a095e"}
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-5645612.m3u8?auth_key=1663104315-0-0-aa27477fd4ada7ea670e3508b74c9ce3"}
 
         ]
          },
