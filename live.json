@@ -1,42 +1,42 @@
 [{"league":"Champions league" ,
 "date":"Tue, sept 13",
-"time":"11:15pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6033_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "teams":"Viktorial Pizen vs Inter",
 "hteam":"Viktorial Pizen",
 "ateam":"Inter",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662974677-0-0-75c126b8c61f27f30e2545a0a871e32f"        },
+"livelink":"https://standard-pull.jpami.com/sm/10021_428408_lhd.m3u8?auth_key=1663171093-0-0-af5c30aefa062cb43c8c81b9ec99842c"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_866198_lhd.m3u8?auth_key=1662982795-0-0-9e58b4280f8b26079b3b56226b9faed8" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1663103955-0-0-ec243af360543e9f4b6b3e2e484c1254" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428437_lhd.m3u8?auth_key=1662982923-0-0-ad30d455821ceaec311e732f39e0ca34"
+"livelink":"https://standard-pull.jpami.com/sm/10021_862974_lhd.m3u8?auth_key=1663171294-0-0-7185433b7ced850fb478a0084c715852"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663104015-0-0-4416852f6b242d93614808a8799a4c67"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663172286-0-0-557dceb36aa25fb29aa591890bdce12b"
   }
 ,
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663172286-0-0-557dceb36aa25fb29aa591890bdce12b"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663172286-0-0-557dceb36aa25fb29aa591890bdce12b"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://standard-pull.hsake.com/boc/10021_862970_lhd.m3u8?auth_key=1662983152-0-0-4247c1cafabf374e5194e09c6a1b2351"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663172286-0-0-557dceb36aa25fb29aa591890bdce12b"
   }
 
   ]
@@ -44,7 +44,7 @@
 
     {"league":"Champions league",
 "date":"Tue,sep,13",
-"time":"11:15pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
 "teams":"sporting CP vs Tottenham",
@@ -52,34 +52,34 @@
 "ateam":"Tottenham",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.hsake.com/boc/10021_831938_lhd.m3u8?auth_key=1662893747-0-0-aba170a208fc6ce991a8b6f755fd465f" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-yy1616.m3u8?auth_key=1663104075-0-0-4681e7c75897b49e954d66085f2d78a5" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663172214-0-0-aad998f535c2f71cedbe0e7f47f0deae"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663171841-0-0-8bb31fe0bbf5a137b61f04b5b2413f1c" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1663104075-0-0-3dbcec9d2ad3fdc0a176cc0fabc3c2bf"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-78951464.m3u8?auth_key=1662827235-0-0-ac98f76a2542940a64636e06f6962e93"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb"
   }
 
        ]  
