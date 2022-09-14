@@ -2,7 +2,7 @@
 {"league":"Champions league",
         "date":"wed, sep 14",
 
-           "time":"live",
+           "time":"End",
 
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9925.png",
@@ -27,7 +27,7 @@
 
 {"league":"Champions league" ,
 "date":"wed, sept 14",
-"time":"live",
+"time":"End",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
 "teams":"",
@@ -71,7 +71,7 @@
 
     {"league":"Champions league",
 "date":"Thu,sep,15",
-"time":"1:30am",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
 "teams":"sporting CP vs Tottenham",
@@ -79,34 +79,34 @@
 "ateam":"Napoli",
 "link":
 [ { "type": "1080p",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-yy1616.m3u8?auth_key=1663104075-0-0-4681e7c75897b49e954d66085f2d78a5" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_428427_lhd.m3u8?auth_key=1663266847-0-0-765a6d4f846c2912491f196d5d156e10" },
  { "type": "720p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663172214-0-0-aad998f535c2f71cedbe0e7f47f0deae"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663194376-0-0-8125d3bb61fb69c1fd2808272973bdbc"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663171841-0-0-8bb31fe0bbf5a137b61f04b5b2413f1c" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_905566_lhd.m3u8?auth_key=1663267341-0-0-2fe6994e9835d0eb6ef28959cf919d92" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1663104075-0-0-3dbcec9d2ad3fdc0a176cc0fabc3c2bf"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663172184-0-0-399c4b984f206fa727a01ed05e0f93cb"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/287ce7079e3557e3125d81930e45adf4.m3u8?auth_key=3326203242-0-0-81a74544848dcd21588c61f0bc46e1ba"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/287ce7079e3557e3125d81930e45adf4.m3u8?auth_key=3326203242-0-0-81a74544848dcd21588c61f0bc46e1ba"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/287ce7079e3557e3125d81930e45adf4.m3u8?auth_key=3326203242-0-0-81a74544848dcd21588c61f0bc46e1ba"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
   }
 
        ]  
@@ -114,33 +114,33 @@
              },
         {"league":"Champions League",
   "date":"Thu, sep 15",
-  "time":"1:30am",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
        "teams":"liverpool vs Ajax",
       "hteam":"Chelase",
       "ateam":"Salzburg",
         "link":[ { "type": "1080p", 
-          "livelink":"https://standard-pull.jpami.com/sm/10021_428408_lhd.m3u8?auth_key=1663171093-0-0-af5c30aefa062cb43c8c81b9ec99842c" 
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-yy1616.m3u8?auth_key=1663194376-0-0-68b6e9d1974ddc3a1c21dd9e9db306a3" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1663104135-0-0-b6b0935c3bfa057011d019b8b2ec98cb"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_916156_lhd.m3u8?auth_key=1663260451-0-0-3103f6686593f1ecceb0baae0936aece"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663172475-0-0-89c09787668c404498d0cf147ecd5171"
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1663194436-0-0-f0915dce95e7d094b45f22ccb6e0bc54"
        },
 { 
-          "type": "SD(open vpn)",
-          "livelink":"http://57.128.137.73:9998/bt-sport2/tracks-v1a1/mono.m3u8?token=464264eb0e7a15f4448d341f935c3722bd851f0c-81882fe995091824ec0a14bc1d4e0907-1663101801-1663091001"
+          "type": "SD",
+          "livelink":"https://yypull.luojizhongyi.com/live/stream-317957.m3u8?auth_key=1663194436-0-0-ac017d4dbd858a27da8eef989469fb2d"
        }
    ]
       },
             {"league":"Bundesliga",
  "date":"Thu, sep 15",
-     "time":"1:30am",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
 
@@ -151,16 +151,16 @@
         "ateam":"RB leipzig",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663181062-0-0-45aad6b25f23f59658e96e3f02c861b1"
+        "livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1663194496-0-0-3b0e8c98ce513a95a81f514b9e9d5f4f"
       },
          { "type": "720p",
 
-         "livelink":"https://yypull.luojizhongyi.com/live/stream-2445688.m3u8?auth_key=1663104255-0-0-1a4a36e6a545513399c907accf8db219" 
+         "livelink":"https://standard-pull.jpami.com/sm/10021_920576_lhd.m3u8?auth_key=1663267188-0-0-2a2de5d450e289de9c05aa5e38f1343b" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://standard-pull.jpami.com/sm/10021_916158_lhd.m3u8?auth_key=1663173828-0-0-d9393d45f636ec4e5f7ee2968f56ab80" 
+         "livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1663194496-0-0-e5e0f1dbb44399f13949d4c56932a61b" 
       }
 ,
 
@@ -169,46 +169,46 @@
 
 { "type": "China",
 
-         "livelink":"https://yypull.luojizhongyi.com/live/stream-5645612.m3u8?auth_key=1663104315-0-0-aa27477fd4ada7ea670e3508b74c9ce3"}
+         "livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663267015-0-0-6108162ce4911aa5492efd91396c5313"}
 
         ]
          },
                 {"league":"Champions League",
            "date":"Thu, sep 15",
-        "time":"1:30am",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
          "teams":" ",
        "hteam":"ManCity",
          "ateam":"Dortmund",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663172830-0-0-0be821bb79582ddba333f1965719a05d" },
-        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-yy1616.m3u8?auth_key=1663104375-0-0-3d01e011937504ed1a63308fe9f5f022" 
+          "livelink":"https://standard-pull.jpami.com/sm/10021_862974_lhd.m3u8?auth_key=1663266792-0-0-a9596756d74678992e3c99c54fd06444" },
+        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1663193608-0-0-599966d0571b5b795bba4b8f1cf160d0" 
 
  }   ,
 
 
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663180754-0-0-3a26fbd8e38733d26e21fe05f2cf864d"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663267239-0-0-b41787e6737c4242df32c61e79845733"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663180786-0-0-5ab70e43faa47f46cb949ef1356d0f81" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663194616-0-0-d05704ae754304572ee2a6577bec0e81" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1663104375-0-0-b27f54eafa03b54272f368f62143787f"
+"livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663267103-0-0-0eb5b725856076e7e6d95341fedc21bc"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://sun.meta-scores.com/fd51162456/fd51162456@720p.m3u8"
+"livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663267103-0-0-0eb5b725856076e7e6d95341fedc21bc"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://sun.meta-scores.com/fd51162456/fd51162456@720p.m3u8"
+"livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663267103-0-0-0eb5b725856076e7e6d95341fedc21bc"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://sun.meta-scores.com/fd51162456/fd51162456@720p.m3u8"
+"livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663267103-0-0-0eb5b725856076e7e6d95341fedc21bc"
   }
 
 
@@ -217,7 +217,7 @@
                     
                         {"league":"Champions League",
   "date":"Thu, sep 15",
-    "time":"1:30am",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
     "teams":"PSG vs Brest",
@@ -225,24 +225,24 @@
     "ateam":"Benficaa",
   "link":[ { "type": "1080p",
 
- "livelink":"https://standard-pull.hsake.com/boc/10021_649422_lhd.m3u8?auth_key=1662906827-0-0-f0d0a257be3c54dcd995b3ff99877d24" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-459976.m3u8?auth_key=1663194676-0-0-0f04442259dd40b898de483f0265522e" },
    { "type": "720p", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428419_lhd.m3u8?auth_key=1662906744-0-0-606fac80a949284d642f5a58329d6595"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428436_lhd.m3u8?auth_key=1663265395-0-0-4054aa7f55118ac1d72a097f97d98e7d"
    },
 {"type": "SD", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_428439_lhd.m3u8?auth_key=1662906485-0-0-1319581944d908dba728f76b688f1447"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663266885-0-0-876da0191b35bbc67c2418164d11052a"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_905566_lhd.m3u8?auth_key=1662901195-0-0-a8a1b46a51a8baaf4ef04c5222db06d6"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663266885-0-0-876da0191b35bbc67c2418164d11052a"
    },
 
 {"type": "HD", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_905566_lhd.m3u8?auth_key=1662901195-0-0-a8a1b46a51a8baaf4ef04c5222db06d6"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663266885-0-0-876da0191b35bbc67c2418164d11052a"
    }
 
       ] 
@@ -251,7 +251,7 @@
 
                         {"league":"Championsleague",
   "date":"Thu, sep 15",
-    "time":"1:30am",
+    "time":"live",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
     "teams":"Ludogorets Razgrad vs Roma",
@@ -259,24 +259,24 @@
     "ateam":"PSG",
   "link":[ { "type": "1080p",
 
- "livelink":"https://standard-pull.hsake.com/boc/10021_920573_lhd.m3u8?auth_key=1662740018-0-0-0c607129dfbc627b4095a71afb60219f" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663266462-0-0-8439f9ed87184cc033e49cde31882a17" },
    { "type": "720p", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1662663450-0-0-ad33c95d3b36a7cbf62b6e09eaec9056"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-348285.m3u8?auth_key=1663194736-0-0-7ce120f0149492c8d65193ddbf6fa0a6"
    },
 {"type": "SD", 
 
-"livelink":"https://standard-pull.hsake.com/boc/10021_866196_lhd.m3u8?auth_key=1662741172-0-0-05a1826d05465df01626066e4269c83e"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-238362.m3u8?auth_key=1663194796-0-0-b37746c0d01a78953a315ed7c2c89021"
    },
 
 {"type": "FHD", 
 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1662670754-0-0-406ae106e650e2ea318c9ab7a55e4be2"
+"livelink":"https://standard-pull.jpami.com/sm/10021_916160_lhd.m3u8?auth_key=1663266437-0-0-83f32337ab14dc9a1dc9c58d4d636387"
    },
 
 {"type": " HD ကြည်တောက်ရှင်း", 
 
-"livelink":"http://play.qqzb666.com/live2/6e48132f5b3600d09ed1fcf7ea078be5.m3u8?auth_key=3324471130-0-0-377010f3dfa643769960ca9426078138"
+"livelink":"https://standard-pull.jpami.com/sm/10021_916160_lhd.m3u8?auth_key=1663266437-0-0-83f32337ab14dc9a1dc9c58d4d636387"
    }
 
       ] 
