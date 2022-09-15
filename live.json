@@ -1,15 +1,15 @@
 [
-{"league":"Champions league",
-        "date":"wed, sep 14",
+{"league":"EuropaLeague",
+        "date":"Thu, sep 15",
 
-           "time":"End",
+           "time":"11:15pm",
 
-    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9728.png",
-     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9925.png",
-      "teams":"RB leipzig vs Dortmund",
+    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
+     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+      "teams":"",
 
-       "hteam":"shakhtar donetsk",
-      "ateam":"celtic",
+       "hteam":"FC Sheriff",
+      "ateam":"ManU",
      "link":[ { "type": "1080p",
  "livelink":"http://play.qqzb666.com/live2/49123bea11e03d7b3e2df1f093e1e0ee.m3u8?auth_key=3326375404-0-0-4f9645cb796ed4d7db677271df52dff0" },
      { "type": "720p", 
@@ -25,14 +25,14 @@
          ]
         },
 
-{"league":"Champions league" ,
-"date":"wed, sept 14",
-"time":"End",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10156_small.png",
+{"league":"Euripa league" ,
+"date":"Thu, sept 15",
+"time":"11:15PM",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
 "teams":"",
-"hteam":"milan",
-"ateam":"DINAMO ZAGREB",
+"hteam":"Midtiylland",
+"ateam":"Lazio",
 "link":[ { "type": "1080p", 
 "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59"        },
  { "type": "720p", 
@@ -69,14 +69,14 @@
   ]
   },
 
-    {"league":"Champions league",
+    {"league":"Europa league",
 "date":"Thu,sep,15",
-"time":"live",
-"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
-"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+"time":"1:15pm",
+"himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",
+"aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "teams":"sporting CP vs Tottenham",
-"hteam":"Rangers",
-"ateam":"Napoli",
+"hteam":"Olympiacos",
+"ateam":"Freiburg",
 "link":
 [ { "type": "1080p",
  "livelink":"https://standard-pull.jpami.com/sm/10021_428427_lhd.m3u8?auth_key=1663266847-0-0-765a6d4f846c2912491f196d5d156e10" },
@@ -112,14 +112,14 @@
        ]  
 
              },
-        {"league":"Champions League",
+        {"league":"Europa League",
   "date":"Thu, sep 15",
-  "time":"live",
-     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
+  "time":"11:15pm",
+     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
+      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
        "teams":"liverpool vs Ajax",
-      "hteam":"Chelase",
-      "ateam":"Salzburg",
+      "hteam":"Monaco",
+      "ateam":"Ferencvaros",
         "link":[ { "type": "1080p(vip)", 
           "livelink":"http://play.qqzb666.com/live2/041340f1a13f06c1d2de17ce530a1537.m3u8?auth_key=3326391464-0-0-c90aebc9b37fcbfc1391dbc92a16e5b4" 
       }, 
@@ -138,17 +138,17 @@
        }
    ]
       },
-            {"league":"Bundesliga",
- "date":"Thu, sep 15",
-     "time":"live",
-       "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+            {"league":Europa Leauge",
+ "date":"Fri, sep 16",
+     "time":"1:30am",
+       "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+      "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9861.png",
 
 
       "teams":"leverkusen vs Atletico madrid",
-        "hteam":"Real Madrid",
+        "hteam":"Roma",
 
-        "ateam":"RB leipzig",
+        "ateam":"HJK",
         "link":[ 
         { "type": "1080p", 
         "livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1663194496-0-0-3b0e8c98ce513a95a81f514b9e9d5f4f"
@@ -173,14 +173,14 @@
 
         ]
          },
-                {"league":"Champions League",
-           "date":"Thu, sep 15",
-        "time":"live",
-         "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-             "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+                {"league":"Europa League",
+           "date":"Fri, sep 16",
+        "time":"1:30am",
+         "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8415_small.png",
+             "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
          "teams":" ",
-       "hteam":"ManCity",
-         "ateam":"Dortmund",
+       "hteam":"Silkeborg",
+         "ateam":"West Ham",
          "link":[ { "type": "1080p",
           "livelink":"https://standard-pull.jpami.com/sm/10021_862974_lhd.m3u8?auth_key=1663266792-0-0-a9596756d74678992e3c99c54fd06444" },
         { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1663193608-0-0-599966d0571b5b795bba4b8f1cf160d0" 
@@ -217,7 +217,7 @@
                     
                         {"league":"Champions League",
   "date":"Thu, sep 15",
-    "time":"live",
+    "time":"End",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
     "teams":"PSG vs Brest",
@@ -251,7 +251,7 @@
 
                         {"league":"Championsleague",
   "date":"Thu, sep 15",
-    "time":"live",
+    "time":"end",
  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10185_small.png",
     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
     "teams":"Ludogorets Razgrad vs Roma",
