@@ -1,29 +1,5 @@
 [
-{"league":"EuropaLeague",
-        "date":"Thu, sep 15",
 
-           "time":"11:15pm",
-
-    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
-     "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-      "teams":" ",
-
-       "hteam":"FC Sheriff",
-      "ateam":"ManU",
-     "link":[ { "type": "1080p",
- "livelink":"http://play.qqzb666.com/live2/49123bea11e03d7b3e2df1f093e1e0ee.m3u8?auth_key=3326375404-0-0-4f9645cb796ed4d7db677271df52dff0" },
-     { "type": "720p", 
-
-"livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CrYFAU_yAeTAvc2KCMX6oBgZrl3WwP043ADZ1cSupz2e3LJN3d3L9dRq3kyBFfge2WC5T_FCTsAFxfD-sjQqLi_HyroDZpjnOjvX9UVk9eCWmLns9V68FqzFAVaDPyfjVQ8h_U2nGA_WtxcopK8V_98b-06vfQb1VtLeCziw1NkKxIEKo7CDh43FYAvXaycXv-cLp-aWxfBnGfluyd076hldzWw_P4-VQ08XqTPSTUIgaKHkPsoC03W1SyQpdU9OoBJXwbQEsa5csoeOwsaMUobJrHYJlXSxuy32b02LOfUKWvhoVrJNVbmulk7eZdZpRl9UGE9p_Af-odVAlt3PHhgpLCaHxO_wW0rAY0FYvKRuXVDBwnEZaaoupk1yAH7ib1IiN2OqgYjKE3dCQqQJEpl5hEJO8zx5DnF0wwKJMXCGE6tILLnXMbxI4NIC8A-oncV2oYV0Jc9SPGwoPpMAlkO5y8QnwJeGCy8AYxk_QbvdmjiOa0W7abWTE4Aw-IlGRz8XKh1757Ayxd54GdvO4V_SWSES7532ZS5nZNOQVGKzE5d4JWbDvevK3h0KHTo2tkcyCPrTMmnHtj3inP7_uNKQq9-luuIEd8hEsEOzYubBMpaUMQt_ibFH1QTXX9IzpQcVjF3XyXLAk3BNCKhRbUl51asuro41gN417ZzvZdpTy-rTlHlJFy-bIeiU-dr68Ym8APj-H3vMkm9Clk3D0F1_i2mrpRCQG6ez58HrwHRRoHx52qkwUwcMbIQW1i082K5jyAMKJFJwYsqHFEawsiTnIn2bYNiRBXoZnUAoRDd6d3iqvIsbFS2OgPD_RHMy0JhfcrcRMKm61l7eNmQlVSQHc-MwjVPYkwKLp-8iZYxxOAFiNE66KI0D2L8pPhykysfv7OLG9KM2M5t4VjRv08JMH5z8sGeC0BoM77eAWeHwcrGB7DmOIAEqCXVzLXdlc3QtMjDVBA.m3u8" 
-      },
- { "type": "480p", 
-"livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CrYFAU_yAeTAvc2KCMX6oBgZrl3WwP043ADZ1cSupz2e3LJN3d3L9dRq3kyBFfge2WC5T_FCTsAFxfD-sjQqLi_HyroDZpjnOjvX9UVk9eCWmLns9V68FqzFAVaDPyfjVQ8h_U2nGA_WtxcopK8V_98b-06vfQb1VtLeCziw1NkKxIEKo7CDh43FYAvXaycXv-cLp-aWxfBnGfluyd076hldzWw_P4-VQ08XqTPSTUIgaKHkPsoC03W1SyQpdU9OoBJXwbQEsa5csoeOwsaMUobJrHYJlXSxuy32b02LOfUKWvhoVrJNVbmulk7eZdZpRl9UGE9p_Af-odVAlt3PHhgpLCaHxO_wW0rAY0FYvKRuXVDBwnEZaaoupk1yAH7ib1IiN2OqgYjKE3dCQqQJEpl5hEJO8zx5DnF0wwKJMXCGE6tILLnXMbxI4NIC8A-oncV2oYV0Jc9SPGwoPpMAlkO5y8QnwJeGCy8AYxk_QbvdmjiOa0W7abWTE4Aw-IlGRz8XKh1757Ayxd54GdvO4V_SWSES7532ZS5nZNOQVGKzE5d4JWbDvevK3h0KHTo2tkcyCPrTMmnHtj3inP7_uNKQq9-luuIEd8hEsEOzYubBMpaUMQt_ibFH1QTXX9IzpQcVjF3XyXLAk3BNCKhRbUl51asuro41gN417ZzvZdpTy-rTlHlJFy-bIeiU-dr68Ym8APj-H3vMkm9Clk3D0F1_i2mrpRCQG6ez58HrwHRRoHx52qkwUwcMbIQW1i082K5jyAMKJFJwYsqHFEawsiTnIn2bYNiRBXoZnUAoRDd6d3iqvIsbFS2OgPD_RHMy0JhfcrcRMKm61l7eNmQlVSQHc-MwjVPYkwKLp-8iZYxxOAFiNE66KI0D2L8pPhykysfv7OLG9KM2M5t4VjRv08JMH5z8sGeC0BoM77eAWeHwcrGB7DmOIAEqCXVzLXdlc3QtMjDVBA.m3u8" },
-     { "type": "360p", 
-
-"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8" 
-      }
-         ]
-        },
 
 {"league":"Euripa league" ,
 "date":"Thu, sept 15",
