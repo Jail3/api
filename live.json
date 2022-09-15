@@ -164,7 +164,7 @@
       },
             {"league":"Europa Leauge",
  "date":"Fri, sep 16",
-     "time":"1:30am",
+     "time":"live",
        "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9861.png",
 
@@ -175,16 +175,16 @@
         "ateam":"HJK",
         "link":[ 
         { "type": "1080p", 
-        "livelink":"https://yypull.luojizhongyi.com/live/stream-286721.m3u8?auth_key=1663194496-0-0-3b0e8c98ce513a95a81f514b9e9d5f4f"
+        "livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663353350-0-0-cb8b9c2e92cd25cfee4fc13fef6cead5"
       },
          { "type": "720p",
 
-         "livelink":"https://standard-pull.jpami.com/sm/10021_920576_lhd.m3u8?auth_key=1663267188-0-0-2a2de5d450e289de9c05aa5e38f1343b" 
+         "livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663353362-0-0-d2ae269d6ba1090c5ef37003e0b66a95" 
       },
 
 { "type": "480p",
 
-         "livelink":"https://yypull.luojizhongyi.com/live/stream-552369.m3u8?auth_key=1663194496-0-0-e5e0f1dbb44399f13949d4c56932a61b" 
+         "livelink":"https://standard-pull.jpami.com/sm/10021_905570_lhd.m3u8?auth_key=1663353696-0-0-53de67fd8aa0051ebe1ce63deaf90f2e" 
       }
 ,
 
@@ -193,46 +193,46 @@
 
 { "type": "China",
 
-         "livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663267015-0-0-6108162ce4911aa5492efd91396c5313"}
+         "livelink":"https://standard-pull.jpami.com/sm/10021_905570_lhd.m3u8?auth_key=1663353696-0-0-53de67fd8aa0051ebe1ce63deaf90f2e"}
 
         ]
          },
                 {"league":"Europa League",
            "date":"Fri, sep 16",
-        "time":"1:30am",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8415_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
          "teams":" ",
        "hteam":"Silkeborg",
          "ateam":"West Ham",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_862974_lhd.m3u8?auth_key=1663266792-0-0-a9596756d74678992e3c99c54fd06444" },
-        { "type": "720p", "livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1663193608-0-0-599966d0571b5b795bba4b8f1cf160d0" 
+          "livelink":"https://standard-pull.jpami.com/sm/10021_916160_lhd.m3u8?auth_key=1663352877-0-0-c42fde0cc7c1543126db164bcbfc19e3" },
+        { "type": "720p", "livelink":"https://standard-pull.jpami.com/sm/10021_916160_lhd.m3u8?auth_key=1663352877-0-0-c42fde0cc7c1543126db164bcbfc19e3" 
 
  }   ,
 
 
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663267239-0-0-b41787e6737c4242df32c61e79845733"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663352904-0-0-b8982ca71ca7f810a4956ef2685ce1d1"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663194616-0-0-d05704ae754304572ee2a6577bec0e81" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663352904-0-0-b8982ca71ca7f810a4956ef2685ce1d1" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663267103-0-0-0eb5b725856076e7e6d95341fedc21bc"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663352904-0-0-b8982ca71ca7f810a4956ef2685ce1d1"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/634187c4be28e59071a99d402b2b3a9a.m3u8?auth_key=3326391676-0-0-3c94ad8dcb8dc32735a7c772cf62046a"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663352904-0-0-b8982ca71ca7f810a4956ef2685ce1d1"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/634187c4be28e59071a99d402b2b3a9a.m3u8?auth_key=3326391676-0-0-3c94ad8dcb8dc32735a7c772cf62046a"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663352904-0-0-b8982ca71ca7f810a4956ef2685ce1d1"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/634187c4be28e59071a99d402b2b3a9a.m3u8?auth_key=3326391676-0-0-3c94ad8dcb8dc32735a7c772cf62046a"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663352904-0-0-b8982ca71ca7f810a4956ef2685ce1d1"
   }
 
 
