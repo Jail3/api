@@ -5,43 +5,43 @@
 
 {"league":"Euripa league" ,
 "date":"Thu, sept 15",
-"time":"11:15PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9729_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
 "teams":"FC Sheriff",
 "hteam":"FC Sheriff",
 "ateam":"ManU",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59"        },
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663337228-0-0-601b4a8fe1a29e175875e94c74593b90"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy1616.m3u8?auth_key=1663272616-0-0-a5337ccb47b85b973bc06da077e9c695" 
   },
 
 { "type": "360p", 
-"livelink":"http://play.qqzb666.com/live2/23bf13643bf2b202125b9129ab0d136e.m3u8?auth_key=3326375146-0-0-bb86209244d3146e368fd8b37ec17b76"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CrYF_vscYADGr8gBKvgh-F_NdiJFnpobZCTopj-B4nc6TuQXKfuM74g1pDPXki3YMy9CYV0pISKn_P6qbXL6eblxS42ut4-20XyCRbhSUlKoyONcV-5WCXie1ANSb4xnmP5-Skyyl1z6D_MaPcUtZf2yB3LjV0epoD-LzFqUnpenj5dHKPVd4oRq2Uf3RRAuiogMRF4CG1aWwVRHk67xLTA2otf-KHFGb9F1JvrSt0UqByEZc55Mhrswt_WRRV_cuhyufydkQAk76JdOkxRnWecDeuWgrOjS0lLB451Hpf5sSByFx7-x19W9Uc7weiYIz24d1JQ5VvUHJxygZdWdYS_8K_-CYedSubjVb0DI5qoYLBTsUcx5BIt7KHBq3GHrw78jhxnGYysKlqfm2YM4dLY3zvXzARNHL59VIdJJWTUGQsgO_xCHRAneROQNbKEOJaz7y3it3ctayzawAxka7h6pX9kb86Jrv99GEydGIvxkZ_ZAVXLQ4SvdF2LrJy18efD8QLA2ytUE1cdmf5VtdVpE9eH07DOUoi43FG_hhXPUeO5kFe1EaB-AajKNV5d3kVsqtoZAPBv3tmjt9j4ZNv1B-FH66t5NhIO09cyaLszpXBC0QxiPmjinkbs6l6APSOO1j3X8_K80Qr2nMI_tLRyopT12pJrcMfamRm_5frx1_-elk_Hb42g1kEpw5BF-S0HcxFXCjou6O2Ui6YylMfBLDdlYuHuB3G7bkJmjniPQIt2FLaNT2Em0fUuKSyzdVWAlLlekZgdGF61d_-r8XnSZ9FypzzkkoGAxJ4Q4Bw_lohIHCdhJo_Y1uUF8bXCkl9bFbmOiyJ-mw_Wuw9gA8Ngvj86AK2eQeQKQ0C92M1xtCIiW2EpF30uLAzTx00aY-r-LYiWxMzqJ11oQ74r3god3_8Ej4e-PsRoMpn1dZzVfHQv4dbDtIAEqCXVzLXdlc3QtMjDVBA.m3u8"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1A2otf-KHFGb9F1JvrSt0UqByEZc55Mhrswt_WRRV_cuhyufydkQAk76JdOkxRnWecDeuWgrOjS0lLB451Hpf5sSByFx7-x19W9Uc7weiYIz24d1JQ5VvUHJxygZdWdYS_8K_-CYedSubjVb0DI5qoYLBTsUcx5BIt7KHBq3GHrw78jhxnGYysKlqfm2YM4dLY3zvXzARNHL59VIdJJWTUGQsgO_xCHRAneROQNbKEOJaz7y3it3ctayzawAxka7h6pX9kb86Jrv99GEydGIvxkZ_ZAVXLQ4SvdF2LrJy18efD8QLA2ytUE1cdmf5VtdVpE9eH07DOUoi43FG_hhXPUeO5kFe1EaB-AajKNV5d3kVsqtoZAPBv3tmjt9j4ZNv1B-FH66t5NhIO09cyaLszpXBC0QxiPmjinkbs6l6APSOO1j3X8_K80Qr2nMI_tLRyopT12pJrcMfamRm_5frx1_-elk_Hb42g1kEpw5BF-S0HcxFXCjou6O2Ui6YylMfBLDdlYuHuB3G7bkJmjniPQIt2FLaNT2Em0fUuKSyzdVWAlLlekZgdGF61d_-r8XnSZ9FypzzkkoGAxJ4Q4Bw_lohIHCdhJo_Y1uUF8bXCkl9bFbmOiyJ-mw_Wuw9gA8Ngvj86AK2eQeQKQ0C92M1xtCIiW2EpF30uLAzTx00aY-r-LYiWxMzqJ11oQ74r3god3_8Ej4e-PsRoMpn1dZzVfHQv4dbDtIAEqCXVzLXdlc3QtMjDVBA.m3u8"
   }
 ,
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/23bf13643bf2b202125b9129ab0d136e.m3u8?auth_key=3326375146-0-0-bb86209244d3146e368fd8b37ec17b76"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/23bf13643bf2b202125b9129ab0d136e.m3u8?auth_key=3326375146-0-0-bb86209244d3146e368fd8b37ec17b76"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1"
   }
 ,
 { "type": "HD  ENG(On VPN)", 
-"livelink":"http://57.128.137.73:9998/bt-sport1/tracks-v1a1/mono.m3u8?token=ad3e3a911f8f8ebe9499974f75f1e36e3185f76c-95b6922903dc2c0f3375d1b7eaa125eb-1663185875-1663175075"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663344764-0-0-b95382cc6dcf5e56b064ff6146b393a1"
   }
 
   ]
@@ -51,43 +51,43 @@
 
 {"league":"Euripa league" ,
 "date":"Thu, sept 15",
-"time":"11:15PM",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8113_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
 "teams":" ",
 "hteam":"Midtiylland",
 "ateam":"Lazio",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59"        },
+"livelink":"https://standard-pull.jpami.com/sm/10021_428408_lhd.m3u8?auth_key=1663345038-0-0-a5b58b48320a23dc07cfd4700a16576b"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58f" 
   },
 
 { "type": "360p", 
-"livelink":"http://play.qqzb666.com/live2/23bf13643bf2b202125b9129ab0d136e.m3u8?auth_key=3326375146-0-0-bb86209244d3146e368fd8b37ec17b76"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58f"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663258175-0-0-d9612383fafe04da28a9d2b3e6f23d59"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58f"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CrYF_vscYADGr8gBKvgh-F_NdiJFnpobZCTopj-B4nc6TuQXKfuM74g1pDPXki3YMy9CYV0pISKn_P6qbXL6eblxS42ut4-20XyCRbhSUlKoyONcV-5WCXie1ANSb4xnmP5-Skyyl1z6D_MaPcUtZf2yB3LjV0epoD-LzFqUnpenj5dHKPVd4oRq2Uf3RRAuiogMRF4CG1aWwVRHk67xLTA2otf-KHFGb9F1JvrSt0UqByEZc55Mhrswt_WRRV_cuhyufydkQAk76JdOkxRnWecDeuWgrOjS0lLB451Hpf5sSByFx7-x19W9Uc7weiYIz24d1JQ5VvUHJxygZdWdYS_8K_-CYedSubjVb0DI5qoYLBTsUcx5BIt7KHBq3GHrw78jhxnGYysKlqfm2YM4dLY3zvXzARNHL59VIdJJWTUGQsgO_xCHRAneROQNbKEOJaz7y3it3ctayzawAxka7h6pX9kb86Jrv99GEydGIvxkZ_ZAVXLQ4SvdF2LrJy18efD8QLA2ytUE1cdmf5VtdVpE9eH07DOUoi43FG_hhXPUeO5kFe1EaB-AajKNV5d3kVsqtoZAPBv3tmjt9j4ZNv1B-FH66t5NhIO09cyaLszpXBC0QxiPmjinkbs6l6APSOO1j3X8_K80Qr2nMI_tLRyopT12pJrcMfamRm_5frx1_-elk_Hb42g1kEpw5BF-S0HcxFXCjou6O2Ui6YylMfBLDdlYuHuB3G7bkJmjniPQIt2FLaNT2Em0fUuKSyzdVWAlLlekZgdGF61d_-r8XnSZ9FypzzkkoGAxJ4Q4Bw_lohIHCdhJo_Y1uUF8bXCkl9bFbmOiyJ-mw_Wuw9gA8Ngvj86AK2eQeQKQ0C92M1xtCIiW2EpF30uLAzTx00aY-r-LYiWxMzqJ11oQ74r3god3_8Ej4e-PsRoMpn1dZzVfHQv4dbDtIAEqCXVzLXdlc3QtMjDVBA.m3u8"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58fS42ut4-20XyCRbhSUlKoyONcV-5WCXie1ANSb4xnmP5-Skyyl1z6D_MaPcUtZf2yB3LjV0epoD-LzFqUnpenj5dHKPVd4oRq2Uf3RRAuiogMRF4CG1aWwVRHk67xLTA2otf-KHFGb9F1JvrSt0UqByEZc55Mhrswt_WRRV_cuhyufydkQAk76JdOkxRnWecDeuWgrOjS0lLB451Hpf5sSByFx7-x19W9Uc7weiYIz24d1JQ5VvUHJxygZdWdYS_8K_-CYedSubjVb0DI5qoYLBTsUcx5BIt7KHBq3GHrw78jhxnGYysKlqfm2YM4dLY3zvXzARNHL59VIdJJWTUGQsgO_xCHRAneROQNbKEOJaz7y3it3ctayzawAxka7h6pX9kb86Jrv99GEydGIvxkZ_ZAVXLQ4SvdF2LrJy18efD8QLA2ytUE1cdmf5VtdVpE9eH07DOUoi43FG_hhXPUeO5kFe1EaB-AajKNV5d3kVsqtoZAPBv3tmjt9j4ZNv1B-FH66t5NhIO09cyaLszpXBC0QxiPmjinkbs6l6APSOO1j3X8_K80Qr2nMI_tLRyopT12pJrcMfamRm_5frx1_-elk_Hb42g1kEpw5BF-S0HcxFXCjou6O2Ui6YylMfBLDdlYuHuB3G7bkJmjniPQIt2FLaNT2Em0fUuKSyzdVWAlLlekZgdGF61d_-r8XnSZ9FypzzkkoGAxJ4Q4Bw_lohIHCdhJo_Y1uUF8bXCkl9bFbmOiyJ-mw_Wuw9gA8Ngvj86AK2eQeQKQ0C92M1xtCIiW2EpF30uLAzTx00aY-r-LYiWxMzqJ11oQ74r3god3_8Ej4e-PsRoMpn1dZzVfHQv4dbDtIAEqCXVzLXdlc3QtMjDVBA.m3u8"
   }
 ,
 { "type": "HD(ENG)(vip)", 
-"livelink":"http://play.qqzb666.com/live2/23bf13643bf2b202125b9129ab0d136e.m3u8?auth_key=3326375146-0-0-bb86209244d3146e368fd8b37ec17b76"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58f"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"http://play.qqzb666.com/live2/23bf13643bf2b202125b9129ab0d136e.m3u8?auth_key=3326375146-0-0-bb86209244d3146e368fd8b37ec17b76"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58f"
   }
 ,
 { "type": "HD  ENG(On VPN)", 
-"livelink":"http://57.128.137.73:9998/bt-sport1/tracks-v1a1/mono.m3u8?token=ad3e3a911f8f8ebe9499974f75f1e36e3185f76c-95b6922903dc2c0f3375d1b7eaa125eb-1663185875-1663175075"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-1923485.m3u8?auth_key=1663272736-0-0-65f9c4a95925380fbec272fadc9fe58f875-1663175075"
   }
 
   ]
@@ -95,7 +95,7 @@
 
     {"league":"Europa league",
 "date":"Thu,sep,15",
-"time":"1:15pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "teams":"sporting CP vs Tottenham",
@@ -103,34 +103,34 @@
 "ateam":"Freiburg",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.jpami.com/sm/10021_428427_lhd.m3u8?auth_key=1663266847-0-0-765a6d4f846c2912491f196d5d156e10" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_831956_lhd.m3u8?auth_key=1663345314-0-0-57cf90d61a2e2069a41f525c7301ed8f" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-37723410.m3u8?auth_key=1663194376-0-0-8125d3bb61fb69c1fd2808272973bdbc"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_905566_lhd.m3u8?auth_key=1663267341-0-0-2fe6994e9835d0eb6ef28959cf919d92" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e" },
+ "livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-4569315.m3u8?auth_key=1663194316-0-0-590fa861b875d9fe2d10a36b2ed7827e"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
   }
 
        ]  
@@ -138,27 +138,27 @@
              },
         {"league":"Europa League",
   "date":"Thu, sep 15",
-  "time":"11:15pm",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8222_small.png",
        "teams":"liverpool vs Ajax",
       "hteam":"Monaco",
       "ateam":"Ferencvaros",
         "link":[ { "type": "1080p(vip)", 
-          "livelink":"http://play.qqzb666.com/live2/041340f1a13f06c1d2de17ce530a1537.m3u8?auth_key=3326391464-0-0-c90aebc9b37fcbfc1391dbc92a16e5b4" 
+          "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663345049-0-0-9a80263b50dc4e403122ddc08de6c1e1" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_916156_lhd.m3u8?auth_key=1663260451-0-0-3103f6686593f1ecceb0baae0936aece"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663345049-0-0-9a80263b50dc4e403122ddc08de6c1e1"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-535588.m3u8?auth_key=1663194436-0-0-f0915dce95e7d094b45f22ccb6e0bc54"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663344892-0-0-61b25edb235cd2ab88dd655f6680ca45"
        },
 { 
           "type": "SD",
-          "livelink":"https://yypull.luojizhongyi.com/live/stream-317957.m3u8?auth_key=1663194436-0-0-ac017d4dbd858a27da8eef989469fb2d"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663344892-0-0-61b25edb235cd2ab88dd655f6680ca45"
        }
    ]
       },
