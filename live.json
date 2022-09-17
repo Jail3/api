@@ -138,27 +138,27 @@
              },
         {"league":"Spain League",
   "date":"sat, sep 17",
-  "time":"8:45pm",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
        "teams":"liverpool vs Ajax",
       "hteam":"Barcelona",
       "ateam":"Elche",
         "link":[ { "type": "1080p(vip)", 
-          "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663345049-0-0-9a80263b50dc4e403122ddc08de6c1e1" 
+          "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663507480-0-0-adf754fd1057c6f684320d7404986d9e" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663345049-0-0-9a80263b50dc4e403122ddc08de6c1e1"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_428437_lhd.m3u8?auth_key=1663507436-0-0-5aa2770ab047f1d4b66c73ce03117ec3"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663344892-0-0-61b25edb235cd2ab88dd655f6680ca45"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663509831-0-0-ed576fbac871be10d7ea2682d66860d3"
        },
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663344892-0-0-61b25edb235cd2ab88dd655f6680ca45"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663509569-0-0-46770f17ea4dbd44d18c089a3267dbf8"
        }
    ]
       },
