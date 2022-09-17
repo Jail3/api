@@ -95,7 +95,7 @@
 
     {"league":"Premier league",
 "date":"Sat,sep,17",
-"time":"11:00pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
 "teams":"sporting CP vs Tottenham",
@@ -103,34 +103,34 @@
 "ateam":"Leicester",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.jpami.com/sm/10021_831956_lhd.m3u8?auth_key=1663345314-0-0-57cf90d61a2e2069a41f525c7301ed8f" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663517065-0-0-325e8cb3ef66568e22cff3b6e94688d8" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663452196-0-0-f3c72f90d0ee1f8df9fa977bff01198b"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_916158_lhd.m3u8?auth_key=1663517304-0-0-eb25503232851b8886ffc4e1b46b8f20" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1663452143-0-0-16fcd8f13aff542e30a9f8288acb62d6"
      }  ,
 
 { "type": "HD",
- "livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-418311.m3u8?auth_key=1663272556-0-0-3aa754183062e0ea61332a1c3e37e87d"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
   }
 
        ]  
