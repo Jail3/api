@@ -5,43 +5,43 @@
 
 {"league":"Premier league" ,
 "date":"Sat, sept 17",
-"time":"6:00pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
 "teams":"FC Sheriff",
 "hteam":"Wolves",
 "ateam":"ManCity",
 "link":[ { "type": "1080p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663361176-0-0-e8a677573725499bb33355e4a0a76ba5"        },
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663498637-0-0-ae425b5f6b8f6b91265cb47bf991941a"        },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663361176-0-0-e8a677573725499bb33355e4a0a76ba5" 
+"livelink":"https://yypull.luojizhongyi.com/live/stream-553368.m3u8?auth_key=1663431676-0-0-d7a3053f61ed31a9fd707c1a4d6bfa5f" 
   },
 
 { "type": "360p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663361176-0-0-e8a677573725499bb33355e4a0a76ba5"
+"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663498528-0-0-5a7559125c4fa293e1ef11ff1878c9ff"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663361176-0-0-e8a677573725499bb33355e4a0a76ba5"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-308116.m3u8?auth_key=1663361176-0-0-e8a677573725499bb33355e4a0a76ba5"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
   }
 ,
 { "type": "HD(ENG)(new)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663439474-0-0-e49d6c8647d0b75b3ac49e368c5eae0d"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
   }
 ,
 
 { "type": "FHD ENG(new)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_905570_lhd.m3u8?auth_key=1663439495-0-0-305a9ef7fddb465c1989d9149f9661f6"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
   }
 ,
 { "type": "HD  ENG(new)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_905570_lhd.m3u8?auth_key=1663439495-0-0-305a9ef7fddb465c1989d9149f9661f6"
+"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
   }
 
   ]
