@@ -95,7 +95,7 @@
 
     {"league":"Serie A",
 "date":"Sun,sep,18",
-"time":"5:00pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
 "teams":"sporting CP vs Tottenham",
@@ -103,34 +103,34 @@
 "ateam":"inter",
 "link":
 [ { "type": "1080p",
- "livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663517065-0-0-325e8cb3ef66568e22cff3b6e94688d8" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663581659-0-0-b453cf95c7db26fcec67b7774e6af21b" },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663452196-0-0-f3c72f90d0ee1f8df9fa977bff01198b"
+"livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663581659-0-0-b453cf95c7db26fcec67b7774e6af21b"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_916158_lhd.m3u8?auth_key=1663517304-0-0-eb25503232851b8886ffc4e1b46b8f20" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076" },
  { "type": "FHD", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-yy2022.m3u8?auth_key=1663452143-0-0-16fcd8f13aff542e30a9f8288acb62d6"
+"livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
+"livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
+"livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
+"livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663517637-0-0-33748adf7360b6cb813ba79b5b813ab9"
+"livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663582003-0-0-609c9052875c7d7636139797ad0e6076"
   }
 
        ]  
