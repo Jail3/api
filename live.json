@@ -199,40 +199,40 @@
          },
                 {"league":"Serie A",
            "date":"Sun, sep 18",
-        "time":"8:30pm",
+        "time":"live",
          "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
              "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
          "teams":" ",
        "hteam":"Roma",
          "ateam":"Atalanta",
          "link":[ { "type": "1080p",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663505785-0-0-1f01fbe282ed296daf2046a1b0059168" },
-        { "type": "720p", "livelink":"https://standard-pull.jpami.com/sm/10021_831938_lhd.m3u8?auth_key=1663506301-0-0-b997f62e107d30026eca84ce0e67c9cb" 
+          "livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663592078-0-0-3cb9370a79964a7571181d90010ceec1" },
+        { "type": "720p", "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1" 
 
  }   ,
 
 
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663498664-0-0-07a78ce6b617866e9ecf42d6c4af1fc9"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
      }  ,
 
 { "type": "HD",
- "livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663498664-0-0-07a78ce6b617866e9ecf42d6c4af1fc9" },
+ "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1" },
  { "type": "FHD", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663506433-0-0-498730c95e24b9885ad879d5ed5dcd66"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
      } ,
 
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663506433-0-0-498730c95e24b9885ad879d5ed5dcd66"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663506433-0-0-498730c95e24b9885ad879d5ed5dcd66"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_866196_lhd.m3u8?auth_key=1663506433-0-0-498730c95e24b9885ad879d5ed5dcd66"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
   }
 
 
