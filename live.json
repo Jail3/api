@@ -5,43 +5,43 @@
 
 {"league":"Premier league" ,
 "date":"Sun, sept 18",
-"time":"5:30pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "teams":"FC Sheriff",
 "hteam":"Brentford",
 "ateam":"Arsenal",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663498637-0-0-ae425b5f6b8f6b91265cb47bf991941a"        },
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663576816-0-0-7ee188dd601e5d74968a595c049c62e4"        },
  { "type": "720p", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-553368.m3u8?auth_key=1663431676-0-0-d7a3053f61ed31a9fd707c1a4d6bfa5f" 
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663583688-0-0-a0f1458dbb263d5172f6c5aa02ae30b1" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663498528-0-0-5a7559125c4fa293e1ef11ff1878c9ff"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663583278-0-0-b7be062bbaf96c524b382043ec077d6f"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
   }
 ,
 { "type": "HD(ENG)(new)", 
-"livelink":"https://yypull.luojizhongyi.com/live/stream-5356701.m3u8?auth_key=1663431676-0-0-b80dadea9023f3a6cba66c70a97f0811"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
   }
 ,
 
 { "type": "FHD ENG(Vip)", 
-"livelink":"https://pullbd1.gxset.com/bodan-live/9102903.m3u8?auth_key=1663428683-0-0-0e39c4e20650b034ccf9e8864232d42f"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://play.zzjxjz.com/live/10404_1663407413.m3u8"
+"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
   }
 
   ]
