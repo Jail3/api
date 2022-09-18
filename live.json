@@ -51,43 +51,43 @@
 
 {"league":"Premier league" ,
 "date":"Sun, sept 18",
-"time":"7:45pm",
+"time":"live",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
 "teams":" ",
 "hteam":"Everton",
 "ateam":"West Ham",
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663507461-0-0-48cdc1e6696bf7381d2bbd577d87e931"        },
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663592078-0-0-3cb9370a79964a7571181d90010ceec1"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663507461-0-0-48cdc1e6696bf7381d2bbd577d87e931" 
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663592078-0-0-3cb9370a79964a7571181d90010ceec1" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663507461-0-0-48cdc1e6696bf7381d2bbd577d87e931"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663592078-0-0-3cb9370a79964a7571181d90010ceec1"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663507461-0-0-48cdc1e6696bf7381d2bbd577d87e931"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663592078-0-0-3cb9370a79964a7571181d90010ceec1"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_920573_lhd.m3u8?auth_key=1663507461-0-0-48cdc1e6696bf7381d2bbd577d87e931"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663592078-0-0-3cb9370a79964a7571181d90010ceec1"
   }
 ,
 { "type": "HD(ENG)(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663500498-0-0-d676363f50818c32be9b348febfc4ed0"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
   }
 ,
 
 { "type": "FHD ENG(vip)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663500498-0-0-d676363f50818c32be9b348febfc4ed0"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
   }
 ,
 { "type": "HD  ENG(On VPN)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663500498-0-0-d676363f50818c32be9b348febfc4ed0"
+"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663592130-0-0-d1d24cf15d2194ea38a39d9df08526f1"
   }
 
   ]
@@ -138,27 +138,27 @@
              },
         {"league":"Serie A",
   "date":"sun, sep 18",
-  "time":"7:30pm",
+  "time":"live",
      "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
       "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
        "teams":"liverpool vs Ajax",
       "hteam":"Monza",
       "ateam":"Juventus",
         "link":[ { "type": "1080p(vip)", 
-          "livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663507480-0-0-adf754fd1057c6f684320d7404986d9e" 
+          "livelink":"https://standard-pull.jpami.com/sm/10021_428437_lhd.m3u8?auth_key=1663590424-0-0-7271d1258c6195dde84f2ddd38104dc3" 
       }, 
         { 
           "type": "720p",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_428437_lhd.m3u8?auth_key=1663507436-0-0-5aa2770ab047f1d4b66c73ce03117ec3"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_428437_lhd.m3u8?auth_key=1663590424-0-0-7271d1258c6195dde84f2ddd38104dc3"
        },
 
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_428419_lhd.m3u8?auth_key=1663509831-0-0-ed576fbac871be10d7ea2682d66860d3"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663590672-0-0-64d0cb1e32a9bd9b7768313f717c296a"
        },
 { 
           "type": "SD",
-          "livelink":"https://standard-pull.jpami.com/sm/10021_649429_lhd.m3u8?auth_key=1663509569-0-0-46770f17ea4dbd44d18c089a3267dbf8"
+          "livelink":"https://standard-pull.jpami.com/sm/10021_649422_lhd.m3u8?auth_key=1663590672-0-0-64d0cb1e32a9bd9b7768313f717c296a"
        }
    ]
       },
