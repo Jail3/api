@@ -8,7 +8,7 @@
 "date":"Sun, sept 18",
 
 
-"time":"End",
+"time":"live",
 
 
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
@@ -19,36 +19,36 @@
 
 
 "link":[ { "type": "1080p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428429_lhd.m3u8?auth_key=1663576816-0-0-7ee188dd601e5d74968a595c049c62e4"        },
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"        },
  { "type": "720p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428459_lhd.m3u8?auth_key=1663583688-0-0-a0f1458dbb263d5172f6c5aa02ae30b1" 
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8" 
   },
 
 { "type": "360p", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_428439_lhd.m3u8?auth_key=1663583278-0-0-b7be062bbaf96c524b382043ec077d6f"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 ,
 { "type": "HD( Eng )", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 ,
 
 
 { "type": "FHD(Eng)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 ,
 { "type": "HD(ENG)(new)", 
-"livelink":"https://standard-pull.jpami.com/sm/10021_905567_lhd.m3u8?auth_key=1663583149-0-0-d60376e78b3292510bd9115a2964c477"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 ,
 
 { "type": "FHD ENG(Vip)", 
-"livelink":"https://pullbd1.gxset.com/bodan-live/9114649.m3u8?auth_key=1663512754-0-0-4ca59f955a5ed0692b84737ae91dff07"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 ,
 { "type": "HD  ENG(vip)", 
-"livelink":"https://pullbd1.gxset.com/bodan-live/9114649.m3u8?auth_key=1663512754-0-0-4ca59f955a5ed0692b84737ae91dff07"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 
   ]
@@ -58,7 +58,7 @@
 
 {"league":"Premier league" ,
 "date":"Sun, sept 18",
-"time":"live",
+"time":"End Stream",
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
 "teams":" ",
