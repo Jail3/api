@@ -1,10 +1,26 @@
-{
-    "img1":"https://i.imgur.com/QvVMMxB.jpeg",
-"link1":"https://t.me/GreatWaveGw47",
-    "img2":"https://i.imgur.com/QvVMMxB.jpeg",
-"link2":"https://t.me/GreatWaveGw47",
-    "img3":"https://i.imgur.com/IoFG0HK.jpeg",
-"link3":"https://t.me/TharSweFot",
-    "img4":"https://i.imgur.com/IoFG0HK.jpeg",
-"link4":"https://t.me/TharSweFot"
-}
+[
+    {
+      "img": "https://i.imgur.com/QvVMMxB.jpeg",
+      "link": "https://i.imgur.com/QvVMMxB.jpeg"
+    },
+    {
+      "img": "https://i.imgur.com/QvVMMxB.jpeg",
+      "link": "https://i.imgur.com/QvVMMxB.jpeg"
+    },
+    {
+      "img": "https://i.imgur.com/QvVMMxB.jpeg",
+      "link": ""
+    },
+    {
+      "img": "https://i.imgur.com/QvVMMxB.jpeg",
+      "link": ""
+    },
+    {
+      "img": "https://i.imgur.com/QvVMMxB.jpeg",
+      "link": "https://i.imgur.com/QvVMMxB.jpeg"
+    },
+    {
+      "img": "https://i.imgur.com/QvVMMxB.jpeg",
+      "link": "https://i.imgur.com/QvVMMxB.jpeg"
+    }
+  ]
