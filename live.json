@@ -18,9 +18,9 @@
 "ateam":"Arsenal",
 
 
-"link":[ { "type": "1080p", 
+"link":[ { "type": "Embed", 
 "livelink":"https://109110.xyz/embed/429473"        },
- { "type": "720p", 
+ { "type": "720p(m3u8)", 
 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8" 
   },
 
@@ -28,8 +28,8 @@
 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
   }
 ,
-{ "type": "HD( Eng )", 
-"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+{ "type": "HD(Mx player )", 
+"livelink":"https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%201%20Portugal_1080p/playlist.m3u8?wmsAuthSign=|Referer=https://ufabetcompany.com/"
   }
 ,
 
