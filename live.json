@@ -8,7 +8,7 @@
 "date":"Wed, Nov 23",
 
 
-"time":"4:30pm",
+"time":"live",
 
 
 "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/6262_small.png",
@@ -24,22 +24,22 @@
 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8" 
   },
 
-{ "type": "360p", 
-"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+{ "type": "360p(m3u8)", 
+"livelink":"https://griomreavigremant654.s3.amazonaws.com/redzone2_720p60.m3u8"
   }
 ,
-{ "type": "HD(Mx player )", 
-"livelink":"https://streaming.iamtheme.com:30443/cloudstreaming/SPORT%20TV%201%20Portugal_1080p/playlist.m3u8?wmsAuthSign=|Referer=https://ufabetcompany.com/"
+{ "type": "HD(Mxplayer)", 
+"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@live/playlist.m3u8?|Referer=https://xoilac10.org/"
   }
 ,
 
 
-{ "type": "FHD(Eng)", 
-"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+{ "type": "FHD(embed)", 
+"livelink":"http://js.jsdelivrfree.com/embed/ch1.php?token=w1"
   }
 ,
-{ "type": "HD(ENG)(new)", 
-"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+{ "type": "HD(ENG)(m3u8)", 
+"livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669217731-0-0-017900942be9cfb2c48ea1ce9c034d25"
   }
 ,
 
